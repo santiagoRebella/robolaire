@@ -8,10 +8,8 @@ const defaultParams = {
 const apiBase = 'http://0.0.0.0:3000/';
 
 function get(url, params = defaultParams) {
-  console.log('api get');
   let finalRequest = request
     .get(apiBase + url)
-    //.timeout(5000)
     .query(params.query);
 
   if (params.header.responseType) {

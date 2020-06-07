@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
-import { Container, Row, Col, Button } from 'reactstrap';
+import { Spinner, Form, Input, Container, Row, Col, Button } from 'reactstrap';
 //const { debounce } = require('lodash');
 import styled from 'styled-components';
 
@@ -17,7 +17,7 @@ const StyledList = styled.div`
   width: 11rem;
   background: transparent;
   color: red;
-  border: 2px solid white;
+  border: 2px solid yellow;
 `;
 
 // const Filters = require('components/filters');
@@ -26,7 +26,7 @@ const StyledList = styled.div`
 // const Posts = require('components/posts');
 // const Footer = require('components/footer');
 
-const App = ({init, marcas}) => {
+const App = ({init, marcas, fetching}) => {
   useEffect(() => {
     console.log('init hook', init, marcas);
     init();
@@ -43,6 +43,27 @@ const App = ({init, marcas}) => {
             </Row>
             <Row>
               <Col>
+              <Form inline>
+                <label className="sr-only" htmlFor="inlineFormInputName2">Name</label>
+                <input type="text" className="form-control mb-2 mr-sm-2" id="inlineFormInputName2" placeholder="Jane Doe" />
+
+                <label className="sr-only" htmlFor="inlineFormInputGroupUsername2">Username</label>
+                <div className="input-group mb-2 mr-sm-2">
+                  <div className="input-group-prepend">
+                    <div className="input-group-text">@</div>
+                  </div>
+                  <input type="text" className="form-control" id="inlineFormInputGroupUsername2" placeholder="Username" />
+                </div>
+
+                <div className="form-check mb-2 mr-sm-2">
+                  <input className="form-check-input" type="checkbox" id="inlineFormCheck" />
+                  <label className="form-check-label" htmlFor="inlineFormCheck">
+                    Remember me
+                  </label>
+                </div>
+
+                <button type="submit" className="btn btn-primary mb-2">Submit</button>
+              </Form>
                 filtros <Button color="danger">Danger!</Button>
               </Col>
             </Row>
@@ -51,9 +72,11 @@ const App = ({init, marcas}) => {
                 <Switch>
                   <Route exact path="/"
                       render={() => (
-                        <StyledList>
-                          { marcas.rows && marcas.rows.map((item) => (<div key={item.id}>{item.marca}</div>)) }
-                        </StyledList>
+                        fetching
+                          ? <Spinner color="primary" />
+                          : <StyledList>
+                              { marcas.rows && marcas.rows.map((item) => (<div key={item.id}>{item.marca}</div>)) }
+                            </StyledList>
                       )}
                   />
                   <Route path="/foo"
@@ -88,12 +111,7 @@ const App = ({init, marcas}) => {
                 footer
               </Col>
               <Col>
-                {'isLoading' && <img src="assets/loading.gif" style={{
-                  display: 'block',
-                  marginLeft: 'auto',
-                  marginRight: 'auto',
-                  width: 50
-                }} />}
+                {true && <Spinner />}
               </Col>
             </Row>
 
@@ -113,7 +131,8 @@ App.propTypes = {
 
 export default connect(
   state => ({
-    marcas: state.marcas
+    marcas: state.marcas,
+    fetching: state.fetching
   }),
   {
     init: initApp,

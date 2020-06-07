@@ -4,10 +4,10 @@ import Api from './api';
 
 // worker Saga: will be fired on USER_FETCH_REQUESTED actions
 function* initApp(action) {
-  console.log('sagas');
    try {
+      yield put({ type: actionTypes.FETCH_REQUEST });
       const marcas = yield call(Api.get, 'users');
-      console.log('marcas', marcas)
+
       yield put({ type: actionTypes.FETCH_SUCCEED, payload: marcas.body });
    } catch (e) {
       yield put({ type: actionTypes.FETCH_FAILED, message: e.message });

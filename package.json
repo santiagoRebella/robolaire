@@ -8,10 +8,10 @@
   "bin": "./bin/www",
   "scripts": {
     "start": "webpack --mode=production && node ./bin/www",
-    "dev": "nodemon ./bin/www",
+    "dev:back": "nodemon ./bin/www",
     "lint": "./node_modules/.bin/eslint . --ext .js",
-    "build:front": "webpack --mode=development --watch",
-    "dev:front": "webpack-dev-server --host 0.0.0.0 --hot --config ./webpack.config.js --mode=development"
+    "dev:front": "webpack --mode=development --watch",
+    "devserver:front": "webpack-dev-server --host 0.0.0.0 --hot --config ./webpack.config.js --mode=development"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",

@@ -8,7 +8,8 @@
     "ecmaVersion": 2020
   },
   "ignorePatterns": [
-
+    "node_modules",
+    "public"
   ],
   "rules": {
     "node/exports-style": ["error", "module.exports"],

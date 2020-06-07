@@ -4,7 +4,7 @@ import { actionTypes } from './constants';
 
 const initialState = () => ({
   fetching: false,
-  marcas: [],
+  marcas: {},
   error: false
 });
 
