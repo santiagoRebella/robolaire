@@ -1,0 +1,17 @@
+{
+    "root": true,
+    "extends": ["airbnb-base", "plugin:react/recommended"],
+    "ignorePatterns": [
+      "node_modules/",
+      "dist/"
+    ],
+    "rules": {
+      "comma-dangle": "off",
+      "arrow-parens": "off",
+      "object-curly-newline": "off",
+      "no-param-reassign": "off"
+    },
+    "env": {
+      "browser": true
+    }
+  }

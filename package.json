@@ -1,0 +1,58 @@
+{
+  "name": "postex",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=8.10.0"
+  },
+  "bin": "./bin/www",
+  "scripts": {
+    "start": "webpack --mode=production && node ./bin/www",
+    "dev": "nodemon ./bin/www",
+    "lint": "./node_modules/.bin/eslint . --ext .js",
+    "build:front": "webpack --mode=development --watch",
+    "dev:front": "webpack-dev-server --host 0.0.0.0 --hot --config ./webpack.config.js --mode=development"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "ejs": "~2.6.1",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-react": "^7.20.0",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "lodash": "^4.17.15",
+    "morgan": "~1.9.1",
+    "node-sass-middleware": "0.11.0",
+    "pg": "^8.2.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "reactstrap": "^8.4.1",
+    "redux": "^4.0.5",
+    "redux-saga": "^1.1.3",
+    "styled-components": "^5.1.1",
+    "superagent": "^5.2.2",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/plugin-transform-runtime": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-react": "^7.10.1",
+    "babel-loader": "^8.1.0",
+    "eslint": "^7.1.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "nodemon": "^2.0.4",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
