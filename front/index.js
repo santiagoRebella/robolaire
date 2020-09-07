@@ -1,14 +1,13 @@
-// require('style/main.scss');
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import store from './core/store';
-import App from './components/App';
+import Robolaire from './components/Robolaire';
+
 
 ReactDOM.render(
   <Provider store={store}>
-    <App />
+    <Robolaire />
   </Provider>,
   document.getElementById('root')
 );

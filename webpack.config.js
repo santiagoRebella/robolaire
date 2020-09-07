@@ -7,11 +7,9 @@ module.exports = {
     filename: 'javascripts/main.js',
     path: path.resolve(__dirname, 'public'),
     publicPath: '/',
- 
   },
   
   devServer: {
-    
     contentBase: path.join(__dirname, 'public'),
     compress: true,
     port: 3001,

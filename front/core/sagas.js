@@ -2,16 +2,28 @@ import { call, put, takeEvery, takeLatest } from 'redux-saga/effects';
 import { actionTypes } from './constants';
 import Api from './api';
 
-// worker Saga: will be fired on USER_FETCH_REQUESTED actions
-function* initApp(action) {
-   try {
-      yield put({ type: actionTypes.FETCH_REQUEST });
-      const marcas = yield call(Api.get, 'users');
+function* getPoems(action) {
+  try {
+    yield put({ type: actionTypes.FETCH_REQUEST });
+    console.log('======================')
+    const poems = yield call(Api.get, 'poems');
+    console.log('======================')
+    yield put({ type: actionTypes.FETCH_POEMS_SUCCEED, payload: poems.body });
+  } catch (e) {
+    yield put({ type: actionTypes.FETCH_FAILED, message: e.message });
+  }
+}
 
-      yield put({ type: actionTypes.FETCH_SUCCEED, payload: marcas.body });
-   } catch (e) {
-      yield put({ type: actionTypes.FETCH_FAILED, message: e.message });
-   }
+function* getNewPoem(action) {
+  try {
+    yield put({ type: actionTypes.FETCH_REQUEST });
+    console.log('======================')
+    const poem = yield call(Api.get, 'poems/new');
+    console.log('======================')
+    yield put({ type: actionTypes.FETCH_NEW_POEM_SUCCEED, payload: poem.text });
+  } catch (e) {
+    yield put({ type: actionTypes.FETCH_FAILED, message: e.message });
+  }
 }
 
 /*
@@ -30,7 +42,8 @@ function* initApp(action) {
   and only the latest one will be run.
 */
 function* mySaga() {
-  yield takeLatest("INIT_APP", initApp);
+  yield takeLatest("GET_POEMS", getPoems);
+  yield takeLatest("GET_NEW_POEM", getNewPoem);
 }
 
 export default mySaga;
