@@ -8,7 +8,8 @@ const path = require('path');
  * structured like so: `{ filepath, name, ext, stat }`
  */
 function readFilesSync(dir) {
-  const allLetters = {};
+  const letters = {};
+  let all = [];
 
   fs.readdirSync(dir).forEach(filename => {
     const name = path.parse(filename).name;
@@ -16,14 +17,19 @@ function readFilesSync(dir) {
     const filepath = path.resolve(dir, filename);
     const stat = fs.statSync(filepath);
     const isFile = stat.isFile();
+    //const content = fs.readFileSync(filepath, "latin1").toString().split('\n');
     const content = fs.readFileSync(filepath).toString().split('\n');
 
-    if (isFile) {
-      allLetters[name] = { filepath, name, ext, stat, content };
+    if (isFile && name !== 'lemario') {
+      letters[name] = { filepath, name, ext, stat, content };
+      all = [...all, ...content];
     }
   });
 
-  return allLetters;
+  return {
+    all,
+    letters
+  };
 }
 
 const dictionary = readFilesSync(__dirname + '/words');

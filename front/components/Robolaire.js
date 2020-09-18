@@ -4,14 +4,13 @@ import { connect } from 'react-redux';
 import { Container, Row, Col, Button } from 'reactstrap';
 import styled from 'styled-components';
 
-import { getPoems, getNewPoem } from '../core/actions';
+import { getPoems, getRandomPoem, getRimedPoem, getRimed2Poem } from '../core/actions';
 import Spinner from './Spinner';
 import { nodeIcon, reactIcon, expressIcon } from './svgs';
 
 const StyledPhrase = styled.div`
   margin: 0.5rem 1rem;
   color: var(--black);
-
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   white-space: nowrap; /* Keeps the content on a single line */
   
@@ -32,17 +31,18 @@ const StyledHeader = styled.div`
   header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-end;
   }
 
   h1 {
     display: inline-flex;
-    margin: 0;
+    margin-right: auto;
     height: 3.5rem;
   }
 
   button {
     display: inline-flex;
+    margin: 0 0.3rem;
   }
 `;
 
@@ -67,7 +67,7 @@ const StyledFooter = styled.div`
   }
 `;
 
-const Robolaire = ({ fetchPoems, fetchNewPoem, poems, phrases, fetching }) => {
+const Robolaire = ({ fetchPoems, fetchRimedPoem, fetchRimed2Poem, fetchRandomPoem, poems, phrases, fetching }) => {
   useEffect(() => {
     fetchPoems();
   }, []);
@@ -76,7 +76,9 @@ const Robolaire = ({ fetchPoems, fetchNewPoem, poems, phrases, fetching }) => {
       <StyledHeader>
         <header>
           <h1>Robolaire</h1>
-          <Button onClick={fetchNewPoem}>generar verso</Button>
+          <Button onClick={fetchRimed2Poem} outline>rime2</Button>
+          <Button onClick={fetchRimedPoem} outline>rime</Button>
+          <Button onClick={fetchRandomPoem} outline>random</Button>
         </header>
       </StyledHeader>
       <Container fluid={true}>
@@ -108,7 +110,9 @@ Robolaire.propTypes = {
   phrases: PropTypes.array.isRequired,
   fetching: PropTypes.bool.isRequired,
   fetchPoems: PropTypes.func.isRequired,
-  fetchNewPoem: PropTypes.func.isRequired,
+  fetchRandomPoem: PropTypes.func.isRequired,
+  fetchRimedPoem: PropTypes.func.isRequired,
+  fetchRimed2Poem: PropTypes.func.isRequired,
   onViewChange: PropTypes.func.isRequired
 };
 
@@ -120,7 +124,9 @@ export default connect(
   }),
   {
     fetchPoems: getPoems,
-    fetchNewPoem: getNewPoem,
+    fetchRandomPoem: getRandomPoem,
+    fetchRimedPoem: getRimedPoem,
+    fetchRimed2Poem: getRimed2Poem,
     onViewChange: () => { console.log('view changed'); }
   }
 )(Robolaire);

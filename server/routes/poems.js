@@ -2,7 +2,7 @@
 const express = require('express');
 const router = express.Router();
 const { Pool } = require('pg');
-const poet = require('../poet/poet');
+const {getRimedPhrase, getRimed2Phrase, getRandomPhrase} = require('../poet/poet');
 
 router.get('/', (req, res) => (async () => {
   const pool = new Pool();
@@ -11,8 +11,16 @@ router.get('/', (req, res) => (async () => {
   res.json({rowCount: result.rowCount, rows: result.rows});
 })());
 
-router.get('/new', (req, res) => (async () => {
-  res.send(poet());
+router.get('/rimed2', (req, res) => (async () => {
+  res.send(getRimed2Phrase());
+})());
+
+router.get('/rimed', (req, res) => (async () => {
+  res.send(getRimedPhrase());
+})());
+
+router.get('/random', (req, res) => (async () => {
+  res.send(getRandomPhrase());
 })());
 
 module.exports = router;

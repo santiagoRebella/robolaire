@@ -6,11 +6,12 @@ const conjunciones = ['y', 'e', 'ni', 'no solo', 'sino también', 'ni siquiera',
 const articulos = ['el', 'la', 'los', 'las'];
 
 function getRandomWord(letter) {
-  const words = dictionary[letter].content;
+  const words = dictionary.all;
+  //const words = dictionary.letters.lemario.content;
   const raw = words[ran(words.length)];
   const base = raw.split(',')[0];
   const termination = raw.split(',')[1];
-  console.log(raw, termination, base);
+
   if (termination) {
     return ran(2) === 1
       ? base
@@ -19,7 +20,11 @@ function getRandomWord(letter) {
   return raw;
 }
 
-const word = () => getRandomWord(getRandomLetter());
+const word = () => {
+  const w = getRandomWord(getRandomLetter()).replace(/[0-9]/g, '');
+  const rimesLength = rimedWord(w, [], true);
+  return (rimesLength < 6) ? word() : w;
+};
 
 function getRandomPhrase() {
   const formas = [
@@ -27,7 +32,83 @@ function getRandomPhrase() {
     `${articulos[ran(articulos.length)]} ${word()} ${conjunciones[ran(conjunciones.length)]} ${word()} ${articulos[ran(articulos.length)]} ${word()}`,
     `${word()} ${articulos[ran(articulos.length)]} ${word()} ${articulos[ran(articulos.length)]} ${word()}`,
   ];
-  return formas[ran(formas.length)];
+  return [formas[ran(formas.length)]];
 }
 
-module.exports = () => getRandomPhrase();
+function rimedWord (rime, uniqueArr = [], count) {
+  const MATCH_LENGTH = rime.length > 6 ? 6 : rime.length;
+
+  const all = dictionary.all;
+
+  console.log(rime, MATCH_LENGTH)
+
+  const matched = all.filter((item) => {
+    return (
+      item.length >= MATCH_LENGTH
+      && item.slice(item.length - MATCH_LENGTH).includes(rime.slice(rime.length - MATCH_LENGTH))
+      && rime !== item
+      && !item.includes('-')
+      && !uniqueArr.includes(item)
+    ); 
+  });
+
+  return count ? matched.length : (matched[ran(matched.length)] || 'NO_RIME');
+
+  console.log('matched', matched)
+
+  while (true) {
+    const w = word()
+    if (w.slice(w.length - MATCH_LENGTH).includes(rime.slice(rime.length - MATCH_LENGTH)) && rime !== w && !w.includes('-') && !uniqueArr.includes(w)) {
+      return w;
+    }
+  }
+}
+function getRimedPhrase() {
+  const N = Array(4).fill();
+  const first = word();
+  const third = word();
+  const fifth = word();
+
+  const firsts = N.reduce((acc) => [...acc, rimedWord(first, acc)], []);
+  const thirds = N.reduce((acc) => [...acc, rimedWord(third, acc)], []);
+  const fifths = N.reduce((acc) => [
+    ...acc, rimedWord(fifth, acc)
+  ], []);
+
+  return N.map((el, index) => {
+    const formas = [
+      `${firsts[index]} ${articulos[ran(articulos.length)]} ${thirds[index]} ${word()} ${fifths[index]}`,
+      `${thirds[index]} ${word()} ${fifths[index]} ${articulos[ran(articulos.length)]} ${firsts[index]}`,
+      `${fifths[index]} ${posesivos[ran(posesivos.length)]} ${word()} ${firsts[index]} ${articulos[ran(articulos.length)]} ${thirds[index]}`
+    ];
+    return formas[ran(formas.length)];
+  });
+}
+
+function getRimed2Phrase() {
+  const N = Array(4).fill();
+  const first = word();
+  const third = word();
+  const fifth = word();
+
+  const firsts = N.reduce((acc) => [...acc, rimedWord(first, acc)], []);
+  const thirds = N.reduce((acc) => [...acc, rimedWord(third, acc)], []);
+  const fifths = N.reduce((acc) => [
+    ...acc, rimedWord(fifth, acc)
+  ], []);
+
+  return N.map((el, index) => {
+    const formas = [
+      `${firsts[index]} ${articulos[ran(articulos.length)]} ${word()} ${fifths[index]}`,
+      `${thirds[index]} ${word()} ${articulos[ran(articulos.length)]} ${firsts[index]}  ${fifths[index]}`,
+      `${fifths[index]} ${posesivos[ran(posesivos.length)]} ${word()} ${firsts[index]} ${articulos[ran(articulos.length)]} ${thirds[index]}`
+    ];
+    return formas[ran(formas.length)];
+  });
+}
+
+module.exports = {
+  getRimedPhrase,
+  getRandomPhrase,
+  getRimed2Phrase
+};

@@ -28,9 +28,9 @@ export default (state = initialState(), action) => {
       };
     }
 
-    case actionTypes.FETCH_NEW_POEM_SUCCEED: {
-      console.log(action.payload);
-
+    case actionTypes.FETCH_RIMED_POEM_SUCCEED:
+    case actionTypes.FETCH_RIMED2_POEM_SUCCEED:
+    case actionTypes.FETCH_RANDOM_POEM_SUCCEED: {
       return {
         ...state,
         phrases: [...state.phrases, action.payload],
