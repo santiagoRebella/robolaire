@@ -2,7 +2,8 @@ import { actionTypes } from './constants';
 
 const initialState = () => ({
   fetching: false,
-  poems: [],
+  poema: [],
+  contribucion: {},
   phrases: [],
   error: false
 });
@@ -19,18 +20,35 @@ export default (state = initialState(), action) => {
       };
 
     case actionTypes.FETCH_POEMS_SUCCEED: {
-      console.log(action.payload.rows);
-      const rows = action.payload.rows.map(item => ({ ...item, data: JSON.parse(item.data) }));
+      console.log(action.payload);
+      //const rows = action.payload.rows.map(item => ({ ...item, data: JSON.parse(item.data) }));
       return {
         ...state,
         fetching: false,
-        poems: rows
+        contribucion: action.payload.contribucion,
+        poema: [...state.poema, action.payload.poema]
       };
     }
 
-    case actionTypes.FETCH_RIMED_POEM_SUCCEED:
-    case actionTypes.FETCH_RIMED2_POEM_SUCCEED:
-    case actionTypes.FETCH_RANDOM_POEM_SUCCEED: {
+    case actionTypes.FETCH_VERSO_SUCCEED: {
+      return {
+        ...state,
+        phrases: [...state.phrases, action.payload],
+        fetching: false,
+      };
+    }
+
+    case actionTypes.FETCH_ESTROFA_SUCCEED: {
+      console.log(action.payload)
+      return {
+        ...state,
+        phrases: [...state.phrases, action.payload],
+        fetching: false,
+      };
+    }
+
+    case actionTypes.FETCH_POEMA_SUCCEED: {
+      console.log(action.payload)
       return {
         ...state,
         phrases: [...state.phrases, action.payload],

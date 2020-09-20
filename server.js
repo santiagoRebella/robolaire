@@ -6,7 +6,7 @@ const logger = require('morgan');
 const sassMiddleware = require('node-sass-middleware');
 
 const indexRouter = require('./server/routes/index');
-const poemsRouter = require('./server/routes/poems');
+const poetRouter = require('./server/routes/poet');
 
 const server = express();
 
@@ -28,7 +28,7 @@ server.use(sassMiddleware({
 server.use(express.static(path.join(__dirname, 'public')));
 
 server.use('/', indexRouter);
-server.use('/poems', poemsRouter)
+server.use('/poet', poetRouter)
 
 server.use((req, res, next) => {
   next(createError(404));

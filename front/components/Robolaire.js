@@ -3,9 +3,18 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { Container, Row, Col, Button } from 'reactstrap';
 import styled from 'styled-components';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from 'react-router-dom';
 
-import { getPoems, getRandomPoem, getRimedPoem, getRimed2Poem } from '../core/actions';
+import { getPoems, getVerso, getEstrofa, getPoema } from '../core/actions';
 import Spinner from './Spinner';
+import Verso from './Verso';
+import Header from './Header';
+import Footer from './Footer';
 import { nodeIcon, reactIcon, expressIcon } from './svgs';
 
 const StyledPhrase = styled.div`
@@ -24,109 +33,86 @@ const StyledPhrase = styled.div`
   }
 `;
 
-const StyledHeader = styled.div`
-  justify-content: center;
-  padding: 1.5rem;
-
-  header {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-  }
-
-  h1 {
-    display: inline-flex;
-    margin-right: auto;
-    height: 3.5rem;
-  }
-
-  button {
-    display: inline-flex;
-    margin: 0 0.3rem;
-  }
+const StyledComponerButtons = styled.div`
+  text-align: center;
+  margin-top: -1.5rem;
+  color: var(--black);
+  
 `;
 
-const StyledFooter = styled.div`
-  width: 100%;
-  padding: 1.5rem;
-
-  footer {
-    align-items: center;
-    justify-content: center;
-    display: flex;
-  }
-
-  svg {
-    width: 3rem;
-    height: 3rem;
-  }
-
-  a {
-    color: var(--black);
-    margin-left: 0.5rem;
-  }
-`;
-
-const Robolaire = ({ fetchPoems, fetchRimedPoem, fetchRimed2Poem, fetchRandomPoem, poems, phrases, fetching }) => {
+const Robolaire = ({
+  fetchPoems,
+  fetchVerso,
+  fetchEstrofa,
+  fetchPoema,
+  poema,
+  contribucion,
+  phrases,
+  fetching
+}) => {
   useEffect(() => {
     fetchPoems();
   }, []);
+
   return (
-    <>
-      <StyledHeader>
-        <header>
-          <h1>Robolaire</h1>
-          <Button onClick={fetchRimed2Poem} outline>rime2</Button>
-          <Button onClick={fetchRimedPoem} outline>rime</Button>
-          <Button onClick={fetchRandomPoem} outline>random</Button>
-        </header>
-      </StyledHeader>
+    <Router>
+      <Header />
       <Container fluid={true}>
         <Row>
           <Col>
-            {phrases.map(phrase => (
-              <StyledPhrase key={phrase}>
-                {phrase}
-              </StyledPhrase>
-            ))}
+            <Switch>
+              <Route path="/componer">
+                <StyledComponerButtons>
+                  <Button color="link" onClick={fetchVerso} outline>verso</Button>
+                  <Button color="link" onClick={fetchEstrofa} outline>estrofa</Button>
+                  <Button color="link" onClick={fetchPoema} outline>poema</Button>
+                </StyledComponerButtons>
+                {phrases.map(phrase => (
+                  <StyledPhrase key={phrase}>
+                    {phrase}
+                  </StyledPhrase>
+                ))}
+              </Route>
+              <Route path="/">
+                <h3>Poema de IPs</h3>
+                {poema.map(item => (
+                  <Verso key={item.id} item={item} contribucion={contribucion} />
+                ))}
+              </Route>
+            </Switch>
+            {fetching && <Spinner />}
           </Col>
-          {fetching && <Spinner />}
         </Row>
       </Container>
-      <StyledFooter>
-        <footer>
-          ©
-          <a href="https://github.com/santiagoRebella">
-            Santiago Rebella
-          </a>
-        </footer>
-      </StyledFooter>
-    </>
+      <Footer />
+    </Router>
   );
 };
 
 Robolaire.propTypes = {
-  poems: PropTypes.array.isRequired,
+  poema: PropTypes.array.isRequired,
+  contribucion: PropTypes.object.isRequired,
   phrases: PropTypes.array.isRequired,
   fetching: PropTypes.bool.isRequired,
   fetchPoems: PropTypes.func.isRequired,
-  fetchRandomPoem: PropTypes.func.isRequired,
-  fetchRimedPoem: PropTypes.func.isRequired,
-  fetchRimed2Poem: PropTypes.func.isRequired,
+  fetchVerso: PropTypes.func.isRequired,
+  fetchEstrofa: PropTypes.func.isRequired,
+  fetchPoema: PropTypes.func.isRequired,
   onViewChange: PropTypes.func.isRequired
 };
 
 export default connect(
   state => ({
-    poems: state.poems,
+    poema: state.poema,
+    contribucion: state.contribucion,
     phrases: state.phrases,
     fetching: state.fetching
   }),
   {
     fetchPoems: getPoems,
-    fetchRandomPoem: getRandomPoem,
-    fetchRimedPoem: getRimedPoem,
-    fetchRimed2Poem: getRimed2Poem,
+    fetchVerso: getVerso,
+    fetchEstrofa: getEstrofa,
+    fetchPoema: getPoema,
     onViewChange: () => { console.log('view changed'); }
   }
 )(Robolaire);
