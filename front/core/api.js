@@ -9,7 +9,7 @@ const apiBase = 'http://0.0.0.0:3000/';
 
 function get(url, params = defaultParams) {
   let finalRequest = request
-    .get(apiBase + url)
+    .get(url)
     .query(params.query);
 
   if (params.header.responseType) {
@@ -23,7 +23,7 @@ function get(url, params = defaultParams) {
 
 function post(url, params = defaultParams, contentType = 'application/json') {
   return request
-    .post(`${apiBase}${url}`)
+    .post(url)
     .send(params.query)
     .set(params.header)
     .set('Accept', 'application/json')
