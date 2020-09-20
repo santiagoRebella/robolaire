@@ -6,7 +6,12 @@ const {verso, estrofa, poema} = require('../poet/poet');
 
 router.get('/', (req, res) => (async () => {
   const ip = req.ip;
-  const pool = new Pool();
+  const pool = new Pool({
+    connectionString: process.env.DATABASE_URL,
+    ssl: {
+      rejectUnauthorized: false
+    }
+  });
   const result = await pool.query('SELECT * FROM poema')
   const hasContributed = result.rows.find(x => x.ip === ip);
 
