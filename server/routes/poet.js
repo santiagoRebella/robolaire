@@ -5,7 +5,7 @@ const { Pool } = require('pg');
 const {verso, estrofa, poema} = require('../poet/poet');
 
 router.get('/', (req, res) => (async () => {
-  const ip = req.ip;
+  const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
   const pool = new Pool({
     connectionString: process.env.DATABASE_URL,
     ssl: {
