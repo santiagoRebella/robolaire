@@ -10,3 +10,10 @@ export const actionTypes = {
   FETCH_ESTROFA_SUCCEED: 'FETCH_ESTROFA_SUCCEED',
   FETCH_POEMA_SUCCEED: 'FETCH_POEMA_SUCCEED'
 };
+
+export const dateFormatOptions = {
+  weekday: 'long',
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+};

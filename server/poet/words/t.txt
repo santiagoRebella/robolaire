@@ -1,4 +1,3 @@
-t
 ta
 taba
 tabacal
@@ -20,8 +19,7 @@ tabanera
 tábano
 tabanque
 tabaola
-tabaque1
-tabaque2
+tabaque
 tabaquera
 tabaquería
 tabaquero, ra
@@ -71,8 +69,7 @@ tablaje
 tablajería
 tablajero
 tablao
-tablar1
-tablar2
+tablar
 tablazo
 tablazón
 tableado
@@ -96,8 +93,7 @@ tabloncillo
 tabloza
 tabo
 tabolango
-tabón1
-tabón2
+tabón
 tabonuco
 tabor
 tabú
@@ -106,16 +102,11 @@ tabulación
 tabulado
 tabulador, ra
 tabula gratulatoria
-tabular1
-tabular2
+tabular
 tabula rasa
 taburete
-tac1
-tac2
-taca1
-taca2
-taca3
-taca4
+tac
+taca
 tacaco
 tacada
 tacamaca
@@ -134,8 +125,7 @@ tacazo
 tácet
 taceta
 tacetán
-tacha1
-tacha2
+tacha
 tachable
 tachador, ra
 tachadura
@@ -144,15 +134,12 @@ tache
 tachero, ra
 tachirense
 tacho
-tachón1
-tachón2
+tachón
 tachonado
-tachonado2
 tachonar
 tachonería
 tachoso, sa
-tachuela1
-tachuela2
+tachuela
 tacita
 tácitamente
 tácito, ta
@@ -256,9 +243,7 @@ tajuela
 tajuelo
 tajugo
 tal
-tala1
-tala2
-tala3
+tala
 talabarte
 talabartería
 talabartero, ra
@@ -284,9 +269,7 @@ talanquera
 talante
 talantoso, sa
 talápiz
-talar1
-talar2
-talar3
+talar
 talareño, ña
 talasemia
 talasocracia
@@ -319,32 +302,26 @@ talguatoso, sa
 talibán, na
 talicón
 talidad
-talín1
-talín2
+talín
 talinera
 talio
 talión
 talionar
 talismán
-talla1
-talla2
-talla3
+talla
 tallada
-tallado1, da
-tallado2, da
+tallado, da
 tallador, ra
 talladura
 tallaje
-tallar1
-tallar2
+tallar
 tallarín
 tallarinada
 tallarola
 talle
 tallecer
 táller
-taller1
-taller2
+taller
 tallerista
 tallero, ra
 tallista
@@ -358,13 +335,9 @@ talmojero
 talmúdico, ca
 talmudista
 talnete
-talo1
-talo2
-talo2
+talo
 talofito, ta
-talón2
-talón2
-talón3
+talón
 talonada
 talonario, ria
 talonazo
@@ -399,8 +372,7 @@ tamango
 tamañamente
 tamañito, ta
 tamaño, ña
-támara1
-támara2
+támara
 tamaral
 tamarao
 tamaricáceo, a
@@ -478,16 +450,13 @@ tamuja
 tamujal
 tamujo
 tamul
-tan1
-tan2
-tan3
+tan
 tanaceto
 tanador
 tanagra
 tanate
 tanateada
 tanatear
-tanato-
 tanatofobia
 tanatología
 tanatológico, ca
@@ -502,8 +471,7 @@ tándem
 tandeo
 tandero, ra
 tandista
-tanga1
-tanga2
+tanga
 tangada
 tangán
 tángana
@@ -519,8 +487,7 @@ tangerino, na
 tangible
 tangidera
 tangir
-tango1
-tango2
+tango
 tangón
 tangue
 tanguear
@@ -532,20 +499,16 @@ tánico, ca
 tanilla
 tanino
 tanjarina
-tanka1
-tanka2
+tanka
 tanobia
--tano, na
 tano, na
 tanoría
 tanor, ra
-tanque1
-tanque2
+tanque
 tanquero
 tanqueta
 tantalio
-tántalo1
-tántalo2
+tántalo
 tantán
 tantarán
 tantarantán
@@ -567,12 +530,10 @@ tañer
 tañido
 tañimiento
 taño
-tao1
-tao2
+tao
 taoísmo
 taoísta
-tapa1
-tapa2
+tapa
 tapabalazo
 tapabarriga
 tapabarro
@@ -613,7 +574,7 @@ tapayagua
 tapazo
 tape
 tapeada
-tapear2
+tapear
 tapegua
 tapera
 taperujarse
@@ -625,8 +586,7 @@ tapiador
 tapido, da
 tapiería
 tapilla
-tapín1
-tapín2
+tapín
 tapina
 tapinear
 tapir
@@ -646,15 +606,13 @@ taqué
 taqueado, da
 taqueo
 taquera
-taqui-
 taquichuela
 taquimeca
 taquín
 taquipnea
 taquirari
 taquito
-tara2
-tara3
+tara
 tarabilla
 tarabita
 tarabuqueño, ña
@@ -697,11 +655,9 @@ tararaco
 tararear
 tarareo
 tararí
-tararira1
-tararira2
+tararira
 tarasa
-tarasca1
-tarasca2
+tarasca
 tarascada
 tarascar
 tarasco, ca
@@ -734,7 +690,6 @@ tardíamente
 tardígrado, da
 tardinero, ra
 tardío, a
-tardo-
 tardo, da
 tardofranquismo
 tardomedieval
@@ -759,8 +714,7 @@ tarificar
 tarijeño, ña
 tarima
 tarimón
-tarín1
-tarín2
+tarín
 tarina
 tarja
 tarjador, ra
@@ -817,8 +771,7 @@ tartamudear
 tartamudeo
 tartamudez
 tartamudo, da
-tartán1
-tartán2
+tartán
 tartana
 tartanero
 tártano
@@ -828,9 +781,7 @@ tartarí
 tartárico, ca
 tartarita
 tartarizar
-tártaro1
-tártaro2
-tártaro3, ra
+tártaro, ra
 tartera
 tartesio, sia
 tartrato
@@ -859,8 +810,7 @@ tasale
 tasar
 tasca
 tascador
-tascar1
-tascar2
+tascar
 tasco
 tasi
 tasio, sia
@@ -873,8 +823,7 @@ tastar
 tastaz
 tasto
 tasugo
-tata1
-tata2
+tata
 tatabro
 tatagua
 tatami
@@ -896,8 +845,7 @@ tatemar
 tatequieto
 tatetí
 tatita
-tato1, ta
-Tato2
+tato, ta
 tatú
 tatuaje
 tatuar
@@ -959,8 +907,7 @@ tazar
 tazmía
 tazón
 té
-te1
-te2
+te
 tea
 teáceo, a
 teame
@@ -980,11 +927,8 @@ teatrólogo, ga
 tebaico, ca
 tebano
 tebenque
-tebeo1, a
-tebeo2
--teca
-teca1
-teca2
+tebeo, a
+teca
 tecali
 techado
 techador, ra
@@ -1003,7 +947,6 @@ tecleo
 teclista
 teclo, cla
 tecnecio
--tecnia
 técnica
 técnicamente
 tecnicatura
@@ -1013,7 +956,6 @@ técnico, ca
 tecnicolor
 tecnificación
 tecnificar
-tecno-
 tecnocracia
 tecnócrata
 tecnocrático, ca
@@ -1045,8 +987,7 @@ tedio
 tedioso, sa
 teflón
 tegeo, a
-tegua1
-tegua2
+tegua
 tegual
 tegucigalpense
 tegüe
@@ -1061,15 +1002,13 @@ teinada
 teísmo
 teísta
 teitral
-teja1
-teja2
+teja
 tejadillo
 tejado
 tejamaní
 tejamanil
 tejano, na
-tejar1
-tejar2
+tejar
 tejaroz
 tejavana
 tejedera
@@ -1086,28 +1025,23 @@ tejida
 tejido
 tejillo
 tejimiento
-tejo1
-tejo2
+tejo
 tejocotal
 tejocote
 tejoleta
 tejolote
 tejolotear
-tejón1, na
-tejón2
+tejón, na
 tejonera
 tejuela
 tejuelo
 tejuino
-tela1
-tela2
+tela
 telamón
 telar
 telaraña
 telarañoso, sa
 tele
-tele-1
-tele-2
 teleadicto, ta
 telebanco
 telebasura
@@ -1193,8 +1127,7 @@ teleteatro
 teletexto
 teletienda
 teletipo
-teletón1
-teletón2
+teletón
 teletrabajador, ra
 teletrabajo
 televenta
@@ -1299,9 +1232,7 @@ tempestivo, va
 tempestuosamente
 tempestuoso, sa
 tempisque
-templa1
-templa2
-templa3
+templa
 templación
 templadamente
 templadera
@@ -1322,8 +1253,7 @@ templo
 tempo
 témpora
 temporada
-temporal1
-temporal2
+temporal
 temporalidad
 temporalizar
 temporalmente
@@ -1347,8 +1277,7 @@ temulento, ta
 ten
 tena
 tenace
-tenacear1
-tenacear2
+tenacear
 tenacero, ra
 tenacidad
 tenacillas
@@ -1424,8 +1353,7 @@ tenis
 tenista
 tenístico, ca
 tenobia
-tenor1
-tenor2
+tenor
 tenora
 tenorino
 tenorio
@@ -1434,8 +1362,7 @@ tensino, na
 tensioactivo, va
 tensiómetro
 tensión
-tensión1
-tensión2
+tensión
 tensionar
 tensoactivo, va
 tensorial
@@ -1464,8 +1391,7 @@ tenuirrostro
 tenuta
 tenutario, ria
 tenzón
-teña1
-teña2
+teña
 teñible
 teñido
 teñidura
@@ -1544,7 +1470,6 @@ tequilero, ra
 tequio
 tequioso, sa
 ter
-tera-
 terabyte
 terapeada
 terapear
@@ -1553,7 +1478,6 @@ terapéutica
 terapéuticamente
 terapéutico, ca
 terapia
--terapia
 terapista
 teratogénico, ca
 teratógeno
@@ -1627,12 +1551,10 @@ terigüela
 teristro
 terliz
 terma
--terma
 termal
 termas
 termes
 termia
--termia
 térmico, ca
 termidor
 terminable
@@ -1653,14 +1575,11 @@ terminólogo, ga
 terminote
 termiónico, ca
 termistor
-termita1
-termita2
+termita
 térmite
 termitera
 termitero
-termo-
-termo1
-termo2
+termo
 termocauterio
 termocéfalo, la
 termodinámico, ca
@@ -1674,7 +1593,6 @@ termogravimetría
 termoiónico, ca
 termolábil
 termología
--termo, ma
 termometría
 termométrico, ca
 termómetro
@@ -1837,10 +1755,8 @@ testa
 testáceo, a
 testación
 testada
-testado1, da
-testado2
-testador1, ra
-testador2, ra
+testado, da
+testador, ra
 testadura
 testaférrea
 testaferro
@@ -1848,9 +1764,7 @@ testamentaría
 testamentario, ria
 testamentificación
 testamento
-testar1
-testar2
-testar3
+testar
 testarada
 testarazo
 testarronería
@@ -1903,7 +1817,6 @@ teticoja
 tetilla
 tetina
 tetón, na
-tetra-
 tetrabranquial
 tetrabrick
 tetracampeón, na
@@ -1973,8 +1886,7 @@ tezontle
 tezuela
 thriller
 ti
-tía1
-tía2
+tía
 tiaca
 tiahuanacota
 tialina
@@ -2004,7 +1916,6 @@ tiburoneo
 tiburtino, na
 tic
 ticinense
--tico, ca
 tico, ca
 ticónico, ca
 tictac
@@ -2030,8 +1941,7 @@ tierroso, sa
 tierrudo, da
 tieso, sa
 tiesta
-tiesto1
-tiesto2, ta
+tiesto, ta
 tiesura
 tifáceo, a
 tífico, ca
@@ -2039,8 +1949,7 @@ tiflología
 tiflológico, ca
 tiflotécnico, ca
 tiflotecnología
-tifo1
-tifo2, fa
+tifo, fa
 tifoideo, a
 tifón
 tifus
@@ -2087,8 +1996,7 @@ tilinte
 tilla
 tillado
 tillar
-tillo1
-tillo2
+tillo
 tilma
 tilo
 tiloso, sa
@@ -2122,9 +2030,7 @@ tímidamente
 timidez
 tímido, da
 timina
-timo1
-timo2
-timo3
+timo
 timocracia
 timócrata
 timocrático, ca
@@ -2182,9 +2088,7 @@ tingle
 tinguro
 tiniebla
 tinillo
-tino1
-tino2
-tino3
+tino
 tinola
 tinta
 tintar
@@ -2257,8 +2161,7 @@ tipoy
 tipuaneño, ña
 típula
 tipunte
-tique1
-tique2
+tique
 tiquear
 tiquete
 tiquí
@@ -2331,14 +2234,12 @@ tiritaño
 tiritar
 tiritera
 tiritón, na
-tiro1
-tiro2
+tiro
 tirocinio
 tiroideo, a
 tiroides
 tirolés, sa
-tirón1
-tirón2
+tirón
 tirona
 tironear
 tironero, ra
@@ -2395,16 +2296,14 @@ titiritar
 titiritear
 titiritero, ra
 titís
-tito1
-tito2, ta
+tito, ta
 titubar
 titubeante
 titubear
 titubeo
 titulación
 titulado, da
-titular1
-titular2
+titular
 titularidad
 titularización
 titularizar
@@ -2454,9 +2353,7 @@ toalla
 toallero
 toalleta
 toar
-toba1
-toba2
-toba3
+toba
 tobaja
 toballa
 toballeta
@@ -2478,22 +2375,17 @@ tocable
 tocacinta
 tocada
 tocadiscos
-tocado1
-tocado2, da
-tocador1
-tocador2, ra
-tocadura1
-tocadura2
+tocado, da
+tocador, ra
+tocadura
 tocamiento
 tocante
 tocaor, ra
 tocapito
-tocar1
-tocar2
+tocar
 tocario, ria
 tocasalva
-tocata1
-tocata2
+tocata
 tocateja
 tocatorre
 tocayo, ya
@@ -2510,8 +2402,7 @@ tocinería
 tocinero, ra
 tocineta
 tocino
-tocio1, cia
-tocio2
+tocio, cia
 toco
 tococo
 tocología
@@ -2520,8 +2411,7 @@ tocólogo, ga
 tocoloro
 tocomate
 tocomocho
-tocón1
-tocón2, na
+tocón, na
 tocona
 toconal
 tocopillano, na
@@ -2556,17 +2446,13 @@ tojal
 tojarra
 tojarro
 tojino
-tojo1
-tojo2
-tojo3
+tojo
 tojosita
 tokamak
 tokiota
 tol
-tola1
-tola2
-tolano1
-tolano2
+tola
+tolano
 toldadura
 toldar
 toldería
@@ -2600,8 +2486,7 @@ toller
 tollimiento
 tollina
 tollir
-tollo1
-tollo2
+tollo
 tollón
 tolmera
 tolmo
@@ -2648,7 +2533,6 @@ tómbolo
 tomeguín
 tomento
 tomentoso, sa
--tomía
 tomillar
 tomillo
 tomín
@@ -2659,7 +2543,6 @@ tomista
 tomiza
 tomo
 tomografía
--tomo, ma
 tomón, na
 ton
 tona
@@ -2730,8 +2613,7 @@ tontuna
 toña
 toñil
 toñina
-top1
-top2
+top
 topa
 topacio
 topada
@@ -2744,7 +2626,7 @@ toparca
 toparquía
 toparra
 topatopa
-tope1
+tope
 topeadura
 topear
 topera
@@ -2770,10 +2652,7 @@ topiquero, ra
 topista
 toples
 top model
-topo1, pa
-topo2
-topo3
-topo4
+topo, pa
 topocho, cha
 topografía
 topográficamente
@@ -2797,8 +2676,7 @@ toqui
 toquido
 toquilla
 torá
-tora1
-tora2
+tora
 torácico, ca
 toracoplastia
 torada
@@ -2829,8 +2707,7 @@ tórculo
 tordella
 tórdiga
 tordillo, lla
-tordo1, da
-tordo2, da
+tordo, da
 toreador
 torear
 toreo
@@ -2846,16 +2723,13 @@ toréutica
 torga
 torgado, da
 torgo
--toria
 toricantano, na
 tórico, ca
 toril
-torillo1
-torillo2
+torillo
 torio
 toriondez
 toriondo, da
--torio, ria
 torista
 torito
 torloroto
@@ -2909,8 +2783,7 @@ tornillo
 torniquete
 torniscón
 torno
-toro1
-toro2
+toro
 torogoz
 toroidal
 toroide
@@ -2938,7 +2811,6 @@ torpeza
 tórpido, da
 torpor
 torques
--tor, ra
 torrado
 torrancés, sa
 torrar
@@ -2976,11 +2848,9 @@ tortear
 tortedad
 tortel
 tortellini
-tortera1
-tortera2
+tortera
 tortería
-tortero1
-tortero2, ra
+tortero, ra
 torteruelo
 torticeramente
 torticero, ra
@@ -3037,11 +2907,9 @@ tosferina
 tosida
 tosidura
 tosiento, ta
-tosigar1
-tosigar2
+tosigar
 tósigo
-tosigoso1, sa
-tosigoso2, sa
+tosigoso, sa
 tosiguera
 tosijoso, sa
 tosquedad
@@ -3053,8 +2921,7 @@ tostado, da
 tostador, ra
 tostadura
 tostar
-tostón1
-tostón2
+tostón
 tostoncillo
 total
 totalidad
@@ -3113,8 +2980,7 @@ toza
 tozal
 tozalbo, ba
 tozar
-tozo1
-tozo2, za
+tozo, za
 tozolada
 tozolón
 tozudez
@@ -3158,8 +3024,7 @@ trabucar
 trabucazo
 trabuco
 trabuquete
-traca1
-traca2
+traca
 trácala
 tracalada
 tracalear
@@ -3201,8 +3066,7 @@ traductor, ra
 traedizo, za
 traedor, ra
 traedura
-traer1
-traer2
+traer
 traeres
 trafa
 trafagador, ra
@@ -3257,8 +3121,7 @@ trágicamente
 trágico, ca
 tragicomedia
 tragicómico, ca
-trago1
-trago2
+trago
 tragonear
 tragonería
 tragonía
@@ -3306,11 +3169,11 @@ tramitología
 tramitomanía
 tramo
 tramojo
-tramolla1
+tramolla
 tramollista
 tramontano, na
 tramontar
-tramoya2
+tramoya
 tramoyón, na
 trampa
 trampal
@@ -3359,7 +3222,6 @@ tranquillo
 tranquillón
 tranquilo, la
 tranquiza
-trans-
 transa
 transable
 transacción
@@ -3586,8 +3448,7 @@ traquido
 traquita
 trarigüe
 traro
-tras1
-tras2
+tras
 trasabuelo, la
 trasalcoba
 trasalpino, na
@@ -3602,8 +3463,7 @@ trasatlántico, ca
 trasbarrás
 trasbocar
 trasbordador
-trasca1
-trasca2
+trasca
 trascabo
 trascantón
 trascantonada
@@ -3693,8 +3553,7 @@ traslucir
 traslumbramiento
 traslumbrar
 trasluz
-trasmallo1
-trasmallo2
+trasmallo
 trasmano
 trasmañana
 trasmañanar
@@ -3711,8 +3570,7 @@ trasmontano, na
 trasmontar
 trasmundo
 trasmutable
-trasnochada1
-trasnochada2
+trasnochada
 trasnochado, da
 trasnochador, ra
 trasnochar
@@ -3787,16 +3645,13 @@ trastada
 trastajo
 trastamenta
 trastazo
-traste1
-traste2
+traste
 trasteado
 trasteador, ra
-trastear1
-trastear2
+trastear
 trastejador, ra
 trastejadura
-trastejar1
-trastejar2
+trastejar
 trastejo
 trasteo
 trastería
@@ -3975,8 +3830,7 @@ trencillar
 trencillo
 trencito
 trenista
-treno1
-treno2
+treno
 trenque
 trente
 trenteno, na
@@ -3985,19 +3839,16 @@ trenzadera
 trenzado
 trenzar
 treo
-trepa1
-trepa2
+trepa
 trepadera
-trepado2
-trepado2, da
+trepado, da
 trepador, ra
 trepajuncos
 trepanación
 trepanar
 trépano
 trepante
-trepar1
-trepar2
+trepar
 treparse
 trepatroncos
 trepe
@@ -4028,7 +3879,6 @@ treta
 tretero, ra
 trezavo, va
 trezna
-tri-
 tría
 triaca
 triacal
@@ -4040,8 +3890,7 @@ triaje
 trial
 trianero, ra
 triangulación
-triangular1
-triangular2
+triangular
 triangularmente
 triángulo
 triaquero, ra
@@ -4055,7 +3904,6 @@ tribada
 tribadismo
 tribal
 tribalismo
-tribo-
 triboelectricidad
 tribología
 triboluminiscencia
@@ -4067,8 +3915,7 @@ tribuir
 tribulación
 tribulanza
 tribular
-tríbulo1
-tríbulo2
+tríbulo
 tribuna
 tribunado
 tribunal
@@ -4149,16 +3996,13 @@ trigueño, ña
 triguero, ra
 triguillo
 trilátero, ra
-trile1
-trile2
+trile
 trilero
 trilingüe
 trilita
 trilítero, ra
 trilito
-trilla1
-trilla2
-trilla3
+trilla
 trilladera
 trillado, da
 trillador, ra
@@ -4194,9 +4038,7 @@ trincadura
 trincaesquinas
 trincafía
 trincapiñones
-trincar1
-trincar2
-trincar3
+trincar
 trincha
 trinchador, ra
 trinchante
@@ -4213,19 +4055,14 @@ trinitaria
 trinitario, ria
 trinitense
 trinitotolueno
-trino1, na
-trino2
+trino, na
 trinomio
 trinquetada
-trinquete1
-trinquete2
-trinquete3
-trinquete4
+trinquete
 trinquetero, ra
 trinquetilla
 trinquis
-trío1
-trío2
+trío
 triodo
 trióxido
 tripa
@@ -4274,10 +4111,8 @@ tripudo, da
 tripulación
 tripulante
 tripular
-trique1
-trique2
-triquete1
-triquete2
+trique
+triquete
 triquina
 triquinosis
 triquiñuela
@@ -4335,9 +4170,7 @@ trivializar
 trivialmente
 trivio
 trivium
--triz
-triza1
-triza2
+triza
 trizar
 trmentario, ria
 trocable
@@ -4350,13 +4183,11 @@ trocaico, ca
 trocamiento
 trocánter
 trócar
-trocar1
-trocar2
+trocar
 trocatinta
 trocatinte
 trocear
-troceo1
-troceo2
+troceo
 trocha
 trochemoche
 troche y moche
@@ -4368,11 +4199,8 @@ tróclea
 troco
 trocoide
 trócola
-trofeo1
-trofeo2
--trofia
+trofeo
 trófico, ca
--trofo, fa
 trofología
 trofólogo, ga
 troglodita
@@ -4387,8 +4215,7 @@ trojero, ra
 trojezada
 trol
 trola
-trole1
-trole2
+trole
 troleada
 trolebús
 trolero, ra
@@ -4409,8 +4236,7 @@ trompatada
 trompazo
 trompeada
 trompear
-trompero1, ra
-trompero2, ra
+trompero, ra
 trompeta
 trompetazo
 trompetear
@@ -4434,8 +4260,7 @@ trompiza
 trompo
 trompón
 trompudo, da
-trona1
-trona2
+trona
 tronada
 tronado, da
 tronador, ra
@@ -4498,8 +4323,7 @@ tropológico, ca
 tropopausa
 troposfera
 troposférico, ca
-troque1
-troque2
+troque
 troquel
 troquelado
 troquelar
@@ -4528,16 +4352,14 @@ trovista
 trovo
 Troya
 troyano, na
-troza1
-troza2
+troza
 trozada
 trozar
 trozo
 truca
 trucaje
 trucar
-trucha1
-trucha1
+trucha
 truchero, ra
 truchimán, na
 trucho, cha
@@ -4569,11 +4391,9 @@ trujamanía
 trujamán, na
 trujillano, na
 trujimán, na
-trulla1
-trulla2
+trulla
 trullar
-trullo1
-trullo2
+trullo
 trumao
 trun
 truncadamente
@@ -4599,8 +4419,7 @@ tuanis
 tuareg
 tuatúa
 tuáutem
-tuba1
-tuba2
+tuba
 túbano
 tubárico, ca
 tuberculina
@@ -4627,10 +4446,7 @@ tuceca
 tucía
 tuciorismo
 tuciorista
-tuco1, ca
-tuco2
-tuco3
-tuco4
+tuco, ca
 tucumano, na
 tucún
 tucupitano, na
@@ -4661,9 +4477,7 @@ tufancina
 tufarada
 tufear
 tufillas
-tufo1
-tufo2
-tufo3
+tufo
 tufoso, sa
 tugiense
 tugurio
@@ -4675,8 +4489,7 @@ tuitear
 tuiteo
 tuitero, ra
 tuitivo, va
-tul1
-tul2
+tul
 tula
 tular
 tulcaneño, ña
@@ -4692,9 +4505,7 @@ tullimiento
 tullir
 tulpa
 tulumuco
-tumba1
-tumba2
-tumba3
+tumba
 tumbaburros
 tumbacuartillos
 tumbadillo
@@ -4710,10 +4521,8 @@ tumbarrancho
 tumbazón
 tumbesino, na
 tumbilla
-tumbo1
-tumbo2
-tumbón1
-tumbón2, na
+tumbo
+tumbón, na
 tumefacción
 tumefacto, ta
 tumescencia
@@ -4733,8 +4542,7 @@ tumultuario, ria
 tumultuosamente
 tumultuoso, sa
 tun
-tuna1
-tuna2
+tuna
 tunal
 tunalmil
 tunantada
@@ -4743,34 +4551,27 @@ tunantería
 tunante, ta
 tunar
 tunarra
-tunco1, ca
-tunco2, ca
-tunda1
-tunda2
-tunda3
+tunco, ca
+tunda
 tundear
 tundente
 tundición
 tundido
 tundidor, ra
 tundidura
-tundir1
-tundir2
+tundir
 tundizno
 tundra
 tunduque
 tuneado
-tunear1
-tunear2
-tunear3
+tunear
 tunecí
 tunecino, na
 túnel
 tuneladora
 tunera
 tunería
-tunero1, ra
-tunero2, ra
+tunero, ra
 Túnez
 tungro, gra
 tungsteno
@@ -4782,16 +4583,13 @@ tunicela
 túnico
 tunjano, na
 tunjo
-tuno1
-tuno2, na
-tuno3
+tuno, na
 tunta
 tunteco, ca
 tuntún
 tununa
 tup
-tupa1
-tupa2
+tupa
 tupamaro, ra
 tupaya
 tupé
@@ -4812,8 +4610,7 @@ turable
 turación
 turanio, nia
 turar
-turba1
-turba2
+turba
 turbación
 turbadamente
 turbador, ra
@@ -4838,7 +4635,6 @@ turbión
 turbioso, sa
 turbit
 turbo
-turbo-
 turboalternador
 turbobomba
 turbocompresor
@@ -4853,8 +4649,7 @@ turborreactor
 turbulencia
 turbulentamente
 turbulento, ta
-turca1
-turca2
+turca
 túrcico, ca
 turco, ca
 turcomano, na
@@ -4899,8 +4694,7 @@ turoperador
 turpial
 turpitud
 turquear
-turquesa1
-turquesa2
+turquesa
 turquesado, da
 turquesco, ca
 turqués, sa
@@ -4937,8 +4731,7 @@ tusculano, na
 tuse
 tusígeno, na
 tusilago
-tuso1, sa
-tuso2, sa
+tuso, sa
 tusón, na
 tustaca
 tusturrar
@@ -4948,8 +4741,7 @@ tute
 tutear
 tutela
 tutelaje
-tutelar1
-tutelar2
+tutelar
 tuteo
 tutía
 tutilimundi
@@ -4971,10 +4763,8 @@ tuturutú
 tutuyo
 tuvaluano, na
 tuya
-tuyo1, ya
-tuyo2
-tuza1
-tuza2
+tuyo, ya
+tuza
 twahka
 tweed
 twist

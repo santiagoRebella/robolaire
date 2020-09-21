@@ -21,7 +21,7 @@ server.use(sassMiddleware({
   src: path.join(__dirname, 'styles'),
   dest: path.join(__dirname, 'public/stylesheets'),
   indentedSyntax: false,
-  debug: true,
+  debug: false,
   outputStyle: 'compressed',
   prefix: '/stylesheets'
 }));

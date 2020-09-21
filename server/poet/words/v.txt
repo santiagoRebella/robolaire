@@ -1,4 +1,3 @@
-v
 vaca
 vacabuey
 vacación
@@ -35,8 +34,7 @@ vacilar
 vacile
 vacilón, na
 vacío, a
-vaco1
-vaco2, ca
+vaco, ca
 vacuidad
 vacuna
 vacunación
@@ -72,9 +70,7 @@ vagamundear
 vagamundo, da
 vagancia
 vagante
-vagar1
-vagar2
-vagar3
+vagar
 vagarosamente
 vagarosidad
 vagaroso, sa
@@ -82,18 +78,15 @@ vagido
 vagina
 vaginal
 vaginitis
-vago1, ga
-vago2, ga
+vago, ga
 vagón
 vagonero, ra
 vagoneta
 vagotonía
 vaguada
 vagueación
-vaguear1
-vaguear2
-vaguedad1
-vaguedad2
+vaguear
+vaguedad
 vaguemaestre
 vaguería
 vaguido, da
@@ -130,9 +123,7 @@ valdepeñas
 valdepeñero, ra
 valdivia
 valdiviano, na
-vale1
-vale2
-vale3
+vale
 valedero, ra
 valedor, ra
 valencia
@@ -144,7 +135,6 @@ valencianista
 valencianización
 valencianizar
 valenciano, na
--valente
 valentía
 valentiniano, na
 valentino, na
@@ -152,8 +142,7 @@ valentísimo, ma
 valentonada
 valentón, na
 valenza
-valer1
-valer2
+valer
 valerano, na
 valeriana
 valerianáceo, a
@@ -188,8 +177,7 @@ valla
 valladar
 valladear
 vallado
-vallar1
-vallar2
+vallar
 valle
 vallecaucano, na
 vallegrandino, na
@@ -257,8 +245,7 @@ vanilocuente
 vanílocuo, cua
 vaniloquio
 vanistorio
-vano1, na
-vano2
+vano, na
 vánova
 vanuatuense
 vapor
@@ -294,12 +281,10 @@ vaquilla
 vaquillona
 vaquiruela
 vara
-varada1
-varada2
+varada
 varadera
 varadero
-varado1, da
-varado2, da
+varado, da
 varadura
 varal
 varamiento
@@ -325,9 +310,7 @@ vareta
 varetazo
 varetear
 varetón
-varga1
-varga2
-varga3
+varga
 varganal
 várgano
 varguense
@@ -433,8 +416,7 @@ vatímetro
 vatio
 váucher
 vaupense
-vaya1
-vaya2
+vaya
 ve
 vecera
 vecería
@@ -450,8 +432,7 @@ vecino, na
 vectación
 vector
 vectorial
-veda1
-Veda2
+veda
 vedado
 vedamiento
 vedar
@@ -461,8 +442,7 @@ vedete
 vedetismo
 vedette
 védico, ca
-vedija1
-vedija2
+vedija
 vedijero, ra
 vedijoso, sa
 vedijudo, da
@@ -474,8 +454,7 @@ veer
 vega
 vegada
 veganismo
-vegano1, na
-vegano2, na
+vegano, na
 vegehudía
 vegetabilidad
 vegetable
@@ -496,8 +475,7 @@ veguero, ra
 vehemencia
 vehemente
 vehementemente
-vehicular1
-vehicular2
+vehicular
 vehículo
 veimarés
 veintavo, va
@@ -554,12 +532,9 @@ vejigatorio, ria
 vejigazo
 vejigoso, sa
 vejuco, ca
-vela1
-vela2
-vela3
+vela
 velacho
-velación1
-velación2
+velación
 velada
 velado, da
 velador, ra
@@ -568,9 +543,7 @@ velahí
 velaje
 velambre
 velamen
-velar1
-velar2
-velar3
+velar
 velarización
 velarizar
 velarte
@@ -584,8 +557,7 @@ velejar
 velería
 velerismo
 velerista
-velero1, ra
-velero2, ra
+velero, ra
 veleta
 velete
 velicación
@@ -603,8 +575,7 @@ vellera
 vellido, da
 vello
 vellocino
-vellón1
-vellón2
+vellón
 vellonero, ra
 véllora
 vellorí
@@ -633,8 +604,7 @@ velofaríngeo, a
 velomotor
 velón
 velonero, ra
-velorio1
-velorio2
+velorio
 velorta
 velorto
 veloz
@@ -648,29 +618,25 @@ venación
 venada
 venadear
 venadero, ra
-venado1, da
-venado2, da
+venado, da
 venador
 venadriz
 venaje
-venal1
-venal2
+venal
 venalidad
 venático, ca
 venatorio, ria
 vencedero, ra
 vencedor, ra
 vencejera
-vencejo1
-vencejo2
+vencejo
 vencer
 vencetósigo
 vencible
 vencida
 vencimiento
 venda
-vendaje1
-vendaje2
+vendaje
 vendal
 vendar
 vendaval
@@ -702,8 +668,7 @@ venenífero, ra
 veneno
 venenosidad
 venenoso, sa
-venera1
-venera2
+venera
 venerable
 venerablemente
 veneración
@@ -760,15 +725,13 @@ ventanilla
 ventanillo
 ventano
 ventanuco
-ventar1
-ventar2
+ventar
 ventarrón
 ventear
 venteril
 venternero, ra
 venternía
-ventero1, ra
-ventero2, ra
+ventero, ra
 ventieca
 ventifarel
 ventilación
@@ -817,16 +780,13 @@ venturosamente
 venturoso, sa
 venus
 venusiano, na
-venusino1, na
-venusino2, na
+venusino, na
 venusterio
 venustez
 venustidad
 venusto, ta
-ver1
-ver2
-vera1
-vera2
+ver
+vera
 veracidad
 veracruzano, na
 vera effigies
@@ -890,11 +850,8 @@ verdel
 verdemar
 verdemontaña
 verdeo
-verderol1
-verderol2
-verderón1
-verderón2
-verderón3, na
+verderol
+verderón, na
 verdete
 verdevejiga
 verdezuela
@@ -934,8 +891,7 @@ vereda
 veredario, ria
 veredero
 veredicto
-verga1
-verga2
+verga
 vergaceo
 vergajazo
 vergajo
@@ -993,8 +949,7 @@ vermú
 vermut
 vernáculo, la
 vernal
-vero1
-vero2, ra
+vero, ra
 verolís
 veronal
 veronense
@@ -1038,9 +993,7 @@ versificar
 versión
 versionar
 versista
-verso1
-verso2
-verso3
+verso
 versolari
 versta
 versucia
@@ -1132,12 +1085,9 @@ vez
 veza
 vezar
 vezo
-vi-
 vía
-viabilidad1
-viabilidad2
-viable1
-viable2
+viabilidad
+viable
 viacheño, ña
 vía crucis
 viada
@@ -1150,11 +1100,8 @@ viajante
 viajar
 viajata
 viaje
-viaje1
-viaje2
 viajero, ra
-vial1
-vial2
+vial
 vialidad
 vianda
 viandante
@@ -1188,7 +1135,6 @@ vicarial
 vicariante
 vicariato
 vicario, ria
-vice-
 vicealmiranta
 vicealmirantazgo
 vicealmirante
@@ -1211,8 +1157,7 @@ vicejefe, fa
 vicenal
 vicense
 Vicente
-vicentino1, na
-vicentino2, na
+vicentino, na
 vicepresidencia
 vicepresidencial
 vicepresidente, ta
@@ -1249,8 +1194,7 @@ victimizar
 victo
 víctor
 victorear
-victoria1
-victoria2
+victoria
 victoriano, na
 victoriato
 victoriosamente
@@ -1266,7 +1210,6 @@ vide
 videncia
 vidente
 video
-video-
 videoaficionado, da
 videoarte
 videocámara
@@ -1318,8 +1261,7 @@ viejo, ja
 viejurgo, ga
 vienense
 vienés, sa
-viento1
-viento2
+viento
 vientre
 viequense, sa
 viernes
@@ -1350,8 +1292,7 @@ vigorizar
 vigorosamente
 vigorosidad
 vigoroso, sa
-vigota1
-vigota2
+vigota
 viguería
 vigués, sa
 vigueta
@@ -1431,8 +1372,7 @@ vinco
 vinculable
 vinculación
 vinculante
-vincular1
-vincular2
+vincular
 vínculo
 vindicación
 vindicador, ra
@@ -1475,14 +1415,12 @@ viñedo
 viñero, ra
 viñeta
 viñetero
-viola1
-viola2
+viola
 violáceo, a
 violación
 violado, da
 violador, ra
-violar1
-violar2
+violar
 violatorio, ria
 violencia
 violentamente
@@ -1524,8 +1462,7 @@ virginal
 virginalero, ra
 virgíneo, a
 virginia
-virginiano1, na
-virginiano2, na
+virginiano, na
 virginidad
 virgo
 virguería
@@ -1534,8 +1471,7 @@ vírgula
 virgulilla
 vírico, ca
 virigaza
-viril1
-viril2
+viril
 virilidad
 virilismo
 virilización
@@ -1544,8 +1480,7 @@ virilmente
 virina
 virio
 viripotencia
-viripotente1
-viripotente2
+viripotente
 virol
 virola
 virolento, ta
@@ -1582,8 +1517,7 @@ virulento, ta
 virus
 viruta
 virutilla
-vis1
-vis2
+vis
 visa
 visadío
 visado
@@ -1679,8 +1613,7 @@ vitiligo
 vitivinícola
 vitivinicultor, ra
 vitivinicultura
-vito1
-vito2
+vito
 vitola
 vítor
 vitorear
@@ -1726,8 +1659,7 @@ vivamente
 vivandero, ra
 vivaque
 vivaquear
-vivar1
-vivar2
+vivar
 vivaracho, cha
 vivariense
 viva voce
@@ -1738,8 +1670,7 @@ vivera
 viveral
 víveres
 viverista
-vivero1
-vivero2
+vivero
 vivérrido, da
 vivez
 viveza
@@ -1757,13 +1688,11 @@ vivificativo, va
 vivífico, ca
 vivijagua
 vivíparo, ra
-vivir1
-vivir2
+vivir
 vivisección
 vivismo
 vivista
 vivo, va
-viz-
 vizcacalis
 vizcacha
 vizcachera
@@ -1793,8 +1722,7 @@ vocear
 vocejón, na
 voceo
 voceras
-vocería1
-vocería2
+vocería
 vocerío
 vocerón
 vocero, ra
@@ -1813,8 +1741,7 @@ vodka
 vodú
 voduismo
 voila
-volada1
-volada2
+volada
 voladero, ra
 voladito, ta
 volado, da
@@ -1842,8 +1769,7 @@ volatilidad
 volatilizable
 volatilizar
 volatilla
-volatín1
-volatín2
+volatín
 volatinero, ra
 volatización
 volatizar
@@ -1895,8 +1821,7 @@ volterianismo
 volteriano, na
 volteta
 voltímetro
-voltio1
-voltio2
+voltio
 voltizo, za
 voltura
 volubilidad
@@ -1948,7 +1873,6 @@ vorahúnda
 voraz
 vorazmente
 vormela
--voro, ra
 vórtice
 vorticela
 vortiginoso, sa
@@ -2004,8 +1928,7 @@ vulcanológico, ca
 vulcanólogo, ga
 vulgacho
 vulgado, da
-vulgar1
-vulgar2
+vulgar
 vulgaridad
 vulgarismo
 vulgarización

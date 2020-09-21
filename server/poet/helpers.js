@@ -11,7 +11,7 @@ const getRandomLetter = () => {
 }
 
 const mechados = () => {
-  switch(ran(12)) {
+  switch(ran(11)) {
   case 1:
     return posesivos[ran(posesivos.length)];
   case 2:
@@ -28,14 +28,11 @@ function rimedWord (rime, uniqueArr = [], count) {
 
   const all = dictionary.all;
 
-  console.log(rime, MATCH_LENGTH)
-
   const matched = all.filter((item) => {
     return (
       item.length >= MATCH_LENGTH
       && item.slice(item.length - MATCH_LENGTH).includes(rime.slice(rime.length - MATCH_LENGTH))
       && rime !== item
-      && !item.includes('-')
       && !uniqueArr.includes(item)
     ); 
   });
@@ -43,9 +40,8 @@ function rimedWord (rime, uniqueArr = [], count) {
   return count ? matched.length : (matched[ran(matched.length)] || 'NO_RIME');
 }
 
-function getRandomWord(letter) {
+function getRandomWord() {
   const words = dictionary.all;
-  //const words = dictionary.letters.lemario.content;
   const raw = words[ran(words.length)];
   const base = raw.split(',')[0];
   const termination = raw.split(',')[1];
@@ -59,7 +55,7 @@ function getRandomWord(letter) {
 }
 
 const word = () => {
-  const w = getRandomWord(getRandomLetter()).replace(/[0-9]/g, '');
+  const w = getRandomWord();
   const rimesLength = rimedWord(w, [], true);
   return (rimesLength < 6) ? word() : w;
 };

@@ -4,6 +4,11 @@ const router = express.Router();
 const { Pool } = require('pg');
 const {verso, estrofa, poema} = require('../poet/poet');
 
+const queries = {
+  GET_POEMA: 'SELECT * FROM poema',
+  INSERT_VERSO: 'INSERT INTO poema(verso, ip) VALUES($1, $2) RETURNING *',
+}
+
 router.get('/', (req, res) => (async () => {
   const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
   const pool = new Pool({
@@ -12,10 +17,8 @@ router.get('/', (req, res) => (async () => {
       rejectUnauthorized: false
     }
   });
-  const result = await pool.query('SELECT * FROM poema')
+  const result = await pool.query(queries.GET_POEMA)
   const hasContributed = result.rows.find(x => x.ip === ip);
-
-  console.log('hasContributed', hasContributed)
 
   if (hasContributed) {
     res.send({
@@ -27,11 +30,9 @@ router.get('/', (req, res) => (async () => {
     try {
       const contribucion = verso();
       await client.query('BEGIN')
-      const queryText = 'INSERT INTO poema(verso, ip) VALUES($1, $2) RETURNING *'
-      const transaction = await client.query(queryText, [contribucion, ip])
+      const transaction = await client.query(queries.INSERT_VERSO, [contribucion, ip])
       await client.query('COMMIT');
-      console.log(transaction);
-      const fresh = await pool.query('SELECT * FROM poema');
+      const fresh = await pool.query(queries.GET_POEMA);
       res.send({
         poema:fresh.rows,
         contribucion: transaction.rows.find(x => x.ip === ip)

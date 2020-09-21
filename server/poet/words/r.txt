@@ -1,4 +1,3 @@
-r
 ra
 raba
 rabada
@@ -19,8 +18,7 @@ rabazuz
 rabdomancia
 rabdomante
 rabear
-rabel1
-rabel2
+rabel
 rabelero, ra
 rabeo
 rabera
@@ -77,8 +75,7 @@ rácano, na
 racear
 racel
 racero
-racha1
-racha2
+racha
 rachar
 racheado, da
 rachear
@@ -117,14 +114,12 @@ rada
 radal
 radar
 radarista
-radi-
 radiación
 radiactividad
 radiactivo, va
 radiado, da
 radiador
-radial1
-radial2
+radial
 radián
 radiante
 radiar
@@ -144,13 +139,7 @@ radicular
 radiculitis
 radiestesia
 radiestesista
-radio-
-radio1
-radio2
-radio3
-radio4
-radio5
-radio6
+radio
 radioactividad
 radioactivo, va
 radioaficionado, da
@@ -248,8 +237,7 @@ rafaila
 rafal
 rafalla
 rafania
-rafe1
-rafe2
+rafe
 rafear
 rafez
 rafezar
@@ -284,8 +272,7 @@ rais
 raíz
 raizar
 rajá
-raja1
-raja2
+raja
 rajable
 rajabroqueles
 rajada
@@ -321,9 +308,7 @@ rallón
 rally
 ralo, la
 ralvar
-rama1
-rama2
-rama3
+rama
 ramada
 ramadán
 ramaje
@@ -372,8 +357,7 @@ ramoneo
 ramoniano, na
 Ramos
 ramoso, sa
-rampa1
-rampa2
+rampa
 rampante
 rampar
 rampete
@@ -438,15 +422,13 @@ ranurado, da
 ranurar
 ranzal
 ranzón
-raña1
-raña2
+raña
 raño
 rap
 rapa
 rapabarbas
 rapacejo
-rapacería1
-rapacería2
+rapacería
 rapacidad
 rapada
 rapado
@@ -459,12 +441,10 @@ rapapiés
 rapapolvo
 rapar
 rapavelas
-rapaz1
-rapaz2
+rapaz
 rapazada
 rapé
-rape1
-rape2
+rape
 rapel
 rapero, ra
 rápidamente
@@ -562,8 +542,7 @@ rasgado, da
 rasgador, ra
 rasgadura
 rasgamiento
-rasgar1
-rasgar2
+rasgar
 rasgo
 rasgón
 rasgueado
@@ -621,8 +600,7 @@ rastel
 rastillador, ra
 rastillar
 rastillo
-rastra1
-rastra2
+rastra
 rastrallar
 rastrar
 rastreable
@@ -653,13 +631,11 @@ rasurada
 rasurado
 rasurador, ra
 rasurar
-rata1
-rata2
+rata
 ratania
 rata parte
 rataplán
-ratear1
-ratear2
+ratear
 rateo
 ratera
 rateramente
@@ -681,17 +657,14 @@ ratinar
 ratino, na
 ratiño
 ratio
-rato1
-rato2
-rato3
+rato
 ratonar
 ratonero, ra
 ratonesco, ca
 ratonil
 ratón, na
 rauco, ca
-rauda1
-rauda2
+rauda
 raudal
 raudamente
 raudo, da
@@ -703,8 +676,7 @@ raviol
 raviole
 ravioli
 rawsense
-raya1
-raya2
+raya
 rayada
 rayadillo
 rayado, da
@@ -719,13 +691,11 @@ rayero
 ráyido
 rayito
 rayo
-rayón1
-rayón2
+rayón
 rayoso, sa
 rayuela
 rayuelo
-raza1
-raza2
+raza
 razado, da
 rázago
 razar
@@ -743,7 +713,6 @@ razonante
 razonar
 RDSI
 re
-re-
 reabierto, ta
 reabrir
 reabsorber
@@ -778,9 +747,7 @@ reagudo, da
 reaje
 reajustar
 reajuste
-real1
-real2
-real3
+real
 reala
 realce
 realdad
@@ -795,10 +762,8 @@ realidad
 realillo
 realimentación
 realimentar
-realismo1
-realismo2
-realista1
-realista2
+realismo
+realista
 realito
 reality
 reality show
@@ -872,8 +837,7 @@ rebaño
 rebasadero
 rebasar
 rebatar
-rebate1
-rebate2
+rebate
 rebatible
 rebatimiento
 rebatiña
@@ -899,10 +863,8 @@ rebite
 reblagar
 reblandecer
 reblandecimiento
-reblar1
-reblar2
-reble1
-reble2
+reblar
+reble
 rebobinado
 rebobinar
 rebocería
@@ -960,8 +922,7 @@ rebujal
 rebujar
 rebujina
 rebujiña
-rebujo1
-rebujo2
+rebujo
 rebulicio
 rebullicio
 rebullir
@@ -1039,13 +1000,11 @@ recata
 recatadamente
 recatado, da
 recatamiento
-recatar1
-recatar2
+recatar
 recatear
 recatería
 recato
-recatón1
-recatón2, na
+recatón, na
 recatonazo
 recatonear
 recatonería
@@ -1159,8 +1118,7 @@ recientemente
 recinchar
 recincho
 recinto
-recio1, cia
-recio2, cia
+recio, cia
 recipiendario, ria
 recipiente
 reciprocación
@@ -1179,10 +1137,8 @@ reciura
 recizalla
 reclamación
 reclamante
-reclamar1
-reclamar2
-reclame1
-reclame2
+reclamar
+reclame
 reclamo
 recle
 reclinación
@@ -1210,8 +1166,7 @@ recocina
 recocta
 recodadero
 recodán
-recodar1
-recodar2
+recodar
 recodín
 recodir
 recodo
@@ -1776,8 +1731,7 @@ regalada
 regaladamente
 regalador, ra
 regalamiento
-regalar1
-regalar2
+regalar
 regalaría
 regalero
 regalía
@@ -1802,19 +1756,16 @@ regañir
 regaño
 regañón, na
 regar
-regata1
-regata2
+regata
 regate
 regateador, ra
-regatear1
-regatear2
+regatear
 regateo
 regatería
 regatero, ra
 regatista
 regato
-regatón1
-regatón2, na
+regatón, na
 regatonear
 regatonería
 regazar
@@ -1868,8 +1819,7 @@ reglamentariamente
 reglamentario, ria
 reglamentista
 reglamento
-reglar1
-reglar2
+reglar
 regleta
 regletear
 reglón
@@ -1920,8 +1870,7 @@ regulable
 regulación
 regulado, da
 regulador, ra
-regular1
-regular2
+regular
 regularidad
 regularización
 regularizador, ra
@@ -1998,9 +1947,7 @@ reinado
 reinador, ra
 reinal
 reinante
-reinar1
-reinar2
-reinar3
+reinar
 reincidencia
 reincidente
 reincidir
@@ -2037,8 +1984,7 @@ reivindicador, ra
 reivindicar
 reivindicativo, va
 reivindicatorio, ria
-reja1
-reja2
+reja
 rejacar
 rejada
 rejado
@@ -2181,8 +2127,7 @@ relumbrón
 relumbroso, sa
 relva
 relvar
-rema1
-rema2
+rema
 remachado, da
 remachador, ra
 remachar
@@ -2250,11 +2195,9 @@ remeneo
 remense
 remero, ra
 remesa
-remesar1
-remesar2
+remesar
 remesero, ra
-remesón1
-remesón2
+remesón
 remeter
 remezón
 remiche
@@ -2306,8 +2249,7 @@ remolinar
 remolinear
 remolino
 remollero
-remolón1
-remolón2, na
+remolón, na
 remolonear
 remolque
 remondar
@@ -2317,8 +2259,7 @@ remontado
 remontamiento
 remontar
 remonte
-remontista1
-remontista2
+remontista
 remoque
 remoquete
 rémora
@@ -2410,15 +2351,13 @@ rengle
 renglera
 renglón
 renglonadura
-rengo1, ga
-Rengo2
+rengo, ga
 renguear
 renguera
 reniego
 reniforme
 renio
-renitencia1
-renitencia2
+renitencia
 renitente
 renombrado, da
 renombrar
@@ -2468,9 +2407,7 @@ reñido, da
 reñidor, ra
 reñidura
 reñir
-reo1
-reo2
-reo3, a
+reo, a
 reobrar
 reoca
 reoctava
@@ -2525,8 +2462,7 @@ repasadora
 repasar
 repasata
 repaso
-repastar1
-repastar2
+repastar
 repasto
 repatear
 repatriación
@@ -2726,8 +2662,7 @@ reps
 reptación
 reptador, ra
 reptante
-reptar1
-reptar2
+reptar
 reptil
 república
 republicano, na
@@ -2776,7 +2711,6 @@ requerimiento
 requerir
 requesón
 requesonero, ra
-requete-
 requeté
 requetebién
 requiém
@@ -2794,7 +2728,6 @@ requisito
 requisitorio, ria
 requive
 res
-res-
 resaber
 resabiado, da
 resabiar
@@ -2857,8 +2790,7 @@ rescrito
 rescuentro
 resecación
 resecamiento
-resecar1
-resecar2
+resecar
 resección
 reseco, ca
 reseda
@@ -2974,8 +2906,7 @@ resort
 resorte
 resortera
 respahilar
-respaldar1
-respaldar2
+respaldar
 respaldo
 respe
 respectar
@@ -3053,7 +2984,7 @@ resquicio
 resquilar
 resquilo
 resquitar
-resta1
+resta
 restablecer
 restablecimiento
 restado, da
@@ -3062,12 +2993,9 @@ restallido
 restante
 restañadero
 restañadura
-restañar1
-restañar2
-restañar2
+restañar
 restañasangre
-restaño1
-restaño2
+restaño
 restar
 restauración
 restaurador, ra
@@ -3159,11 +3087,9 @@ retal
 retaliación
 retaliador, ra
 retaliativo, va
-retallar1
-retallar2
+retallar
 retallecer
-retallo1
-retallo2
+retallo
 retallón
 retalteco,c a
 retama
@@ -3188,7 +3114,6 @@ retasación
 retasar
 retazar
 retazo
-rete-
 retejado
 retejador, ra
 retejar
@@ -3207,8 +3132,7 @@ retenidamente
 retenimiento
 retentar
 retentivo, va
-reteñir1
-reteñir2
+reteñir
 retesamiento
 retesar
 reteso
@@ -3226,8 +3150,7 @@ retinar
 retinglar
 retiniano, na
 retinol
-retinte1
-retinte2
+retinte
 retintín
 retinto, ta
 retiñir
@@ -3236,8 +3159,7 @@ retirada
 retiradamente
 retirado, da
 retiramiento
-retirar1
-retirar2
+retirar
 retiro
 reto
 retobado, da
@@ -3331,7 +3253,6 @@ retributivo, va
 retril
 retrillar
 retro
-retro-
 retroacción
 retroactividad
 retroactivo, va
@@ -3447,8 +3368,7 @@ reverencioso, sa
 reverenda
 reverente
 reverentemente
-reversa1
-reversa2
+reversa
 reversar
 reversibilidad
 reversión
@@ -3522,8 +3442,7 @@ revoque
 revotarse
 revuelco
 revuelo
-revuelta1
-revuelta2
+revuelta
 revueltamente
 revuelto, ta
 revuelvepiedras
@@ -3616,8 +3535,7 @@ ridículamente
 ridiculez
 ridiculización
 ridiculizar
-ridículo1
-ridículo1, la
+ridículo, la
 ridiculoso, sa
 riego
 riel
@@ -3657,8 +3575,7 @@ riguridad
 rigurosamente
 rigurosidad
 riguroso, sa
-rija1
-rija2
+rija
 rijador, ra
 rijar
 rijioso, sa
@@ -3666,9 +3583,7 @@ rijo
 rijosidad
 rijoso, sa
 rilar
-rima1
-rima2
-rima3
+rima
 rimador, ra
 rimar
 rimbombancia
@@ -3679,8 +3594,7 @@ rimbonbo
 rímel
 rimero
 rimú
-Rin1
-rin2
+Rin
 rinanto
 rincón
 rinconada
@@ -3695,7 +3609,6 @@ ringlera
 ringlero
 ringorrango
 rinitis
-rino-
 rinoceronte, ta
 rinofaringe
 rinología
@@ -3768,8 +3681,7 @@ rite
 ritmar
 rítmico, ca
 ritmo
-rito1
-rito2, ta
+rito, ta
 ritón
 ritornelo
 ritual
@@ -3782,15 +3694,12 @@ rivalidad
 rivalizar
 rivera
 riverense
-riza1
-riza2
+riza
 rizado, da
 rizador, ra
 rizal
 rizar
-rizo-
-rizo1, za
-rizo2
+rizo, za
 rizófago, ga
 rizofito, ta
 rizoforáceo, a
@@ -3802,8 +3711,6 @@ rizón
 rizópodo
 rizoso, sa
 RNA
-ro1
-ro2
 roa
 roal
 roanés, sa
@@ -3824,8 +3731,7 @@ robapelo
 robaperas
 robar
 robavacas
-robda1
-robda2
+robda
 robeco
 robellón
 robería
@@ -3848,8 +3754,7 @@ roblizo, za
 roblón
 roblonado, da
 roblonar
-robo1
-robo2
+robo
 roboración
 roborante
 roborar
@@ -3888,8 +3793,7 @@ rocear
 rocería
 rocero, ra
 rocha
-rochar1
-rochar2
+rochar
 roche
 rochela
 rochelear
@@ -3922,8 +3826,7 @@ rocola
 rocolo, la
 rocoso, sa
 rocoto
-roda1
-roda2
+roda
 rodaballo
 rodachina
 rodada
@@ -3959,8 +3862,7 @@ rodeo
 rodeón
 rodera
 rodericense
-rodero1
-rodero2, ra
+rodero, ra
 roderón
 rodete
 rodezno
@@ -3971,11 +3873,9 @@ rodillazo
 rodillero, ra
 rodillo
 rodilludo, da
-rodio1
-rodio2, dia
+rodio, dia
 rodiota
-rodo1
-rodo2
+rodo
 rododafne
 rododendro
 rodomiel
@@ -4011,7 +3911,7 @@ rojillo, lla
 rojizo, za
 rojo, ja
 rojura
-rol2
+rol
 rola
 rolar
 rolazo
@@ -4021,8 +3921,7 @@ rolde
 roldón
 roleo
 roletazo
-rolla1
-rolla2
+rolla
 rollar
 rolletal
 rollete
@@ -4091,8 +3990,7 @@ romería
 romeriante
 romeriego, ga
 romerillo
-romero1
-romero2, ra
+romero, ra
 romí
 romín
 romo, ma
@@ -4127,8 +4025,7 @@ rompón
 rompope
 rompopo
 ron
-ronca1
-ronca2
+ronca
 roncada
 roncadera
 roncador, ra
@@ -4141,10 +4038,8 @@ roncear
 roncella
 roncería
 roncero, ra
-roncha1
-roncha2
-ronchar1
-ronchar2
+roncha
+ronchar
 ronchero
 ronchón
 ronco, ca
@@ -4165,9 +4060,7 @@ rondón
 ronfea
 rongigata
 ronqueador
-ronquear1
-ronquear2
-ronquear3
+ronquear
 ronquedad
 ronquera
 ronquez
@@ -4176,8 +4069,7 @@ ronrón
 ronronear
 ronroneo
 ronza
-ronzal1
-ronzal2
+ronzal
 ronzar
 ronzuela
 ronzuella
@@ -4200,21 +4092,17 @@ ropero, ra
 ropeta
 ropilla
 ropón
-roque1
-roque2
-Roque3
+roque
 roqueda
 roquedal
 roquedo
 roquefort
 roqueño, ña
 roquerío
-roquero1, ra
-roquero2, ra
+roquero, ra
 roqués
 roqueta
-roquete1
-roquete2
+roquete
 rorante
 rorar
 rorcual
@@ -4226,8 +4114,7 @@ rosacruz
 rosada
 rosadelfa
 rosadillo
-rosado1, da
-rosado2, da
+rosado, da
 rosal
 rosaleda
 rosalera
@@ -4241,8 +4128,7 @@ rosbif
 rosca
 roscadero
 roscado, da
-roscar1
-roscar2
+roscar
 rosco
 roscón
 rosear
@@ -4260,11 +4146,9 @@ rosigón
 rosillo, lla
 rositas
 rosjo
-rosmarino1
-rosmarino2
+rosmarino
 rosmaro
-roso1
-roso2, sa
+roso, sa
 rosoli
 rosón
 rosqueado, da
@@ -4285,9 +4169,7 @@ rostritorcido, da
 rostrituerto, ta
 rostrizo
 rostro
-rota1
-rota2
-Rota3
+rota
 rotación
 rotacismo
 rotafolio
@@ -4312,8 +4194,7 @@ rótula
 rotulación
 rotulado
 rotulador, ra
-rotular1
-rotular2
+rotular
 rotulata
 rotuliano, na
 rotulista
@@ -4346,24 +4227,16 @@ rozamiento
 rozar
 rozavillón
 roznar
-roznido1
-roznido2
+roznido
 rozno
 rozo
 rozón
-rr
--rragia
--rrea
--rro, rra
 rúa
-ruan1
-ruan2
+ruan
 ruana
 ruandés, sa
 ruanés, sa
-ruano1, na
-ruano2, na
-ruano3, na
+ruano, na
 ruante
 ruar
 rubefacción
@@ -4374,12 +4247,9 @@ rubeola
 rubescente
 rubeta
 rubí
-rubia1
-rubia2
-rubia3
+rubia
 rubiáceo, a
-rubial1
-rubial2
+rubial
 rubiales
 rubicán, na
 rubicela
@@ -4391,8 +4261,7 @@ rubiel
 rubiera
 rubificar
 rubilla
-rubín1
-rubín2
+rubín
 rubinoso, sa
 rubio, bia
 rubiola
@@ -4411,14 +4280,12 @@ rubriquista
 rubro, bra
 rúbulo
 ruc
-ruca1
-ruca2
+ruca
 rucar
 ruchar
 ruche
 ruchique
-rucho1, cha
-rucho2
+rucho, cha
 ruciadera
 rucio, cia
 ruco, ca
@@ -4448,11 +4315,9 @@ rufianear
 rufianería
 rufianesco, ca
 rufián, na
-rufo1
-rufo2, fa
+rufo, fa
 rufón
-ruga1
-ruga2
+ruga
 rugar
 rugbista
 rugby
@@ -4489,22 +4354,18 @@ ruleta
 ruletear
 ruleteo
 ruletero, ra
-rulo1
-rulo2
+rulo
 rumano, na
 rumazón
 rumba
 rumbada
 rumbantela
-rumbar1
-rumbar2
+rumbar
 rumbático, ca
 rumbeador, ra
-rumbear1
-rumbear2
+rumbear
 rumbero, ra
-rumbo1
-rumbo2
+rumbo
 rumbón, na
 rumbosamente
 rumboso, sa
@@ -4527,8 +4388,7 @@ rumoroso, sa
 rumpiata
 rum rum
 run
-runa1
-runa2
+runa
 runcho
 rundel
 runfla
@@ -4546,8 +4406,7 @@ ruñar
 ruñido, da
 ruñir
 rupestre
-rupia1
-rupia1
+rupia
 rupicabra
 rupicapra
 rupícola
@@ -4585,9 +4444,7 @@ rustrir
 rustro
 ruta
 rutáceo, a
-rutar1
-rutar2
-rutar3
+rutar
 rutel
 rutenio
 ruteno, na

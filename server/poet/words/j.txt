@@ -1,4 +1,3 @@
-j
 ja
 jaba
 jabado, da
@@ -6,8 +5,7 @@ jabalcón
 jabalconar
 jabalí, lina
 jabalín
-jabalina1
-jabalina2
+jabalina
 jabalinero, ra
 jabalón
 jabalonar
@@ -19,21 +17,17 @@ jabato, ta
 jabeba
 jabeca
 jábeca
-jábega1
-jábega2
+jábega
 jabegote
 jabeguero, ra
 jabelgar
-jabeque1
-jabeque2
+jabeque
 jabera
-jabí1
-jabí2
+jabí
 jabillo
 jabino
 jabirú
-jable1
-jable2
+jable
 jabón
 jabonada
 jabonado
@@ -85,7 +79,7 @@ jachudo, da
 jacilla
 jacintino, na
 jacinto
-jaco1
+jaco
 jacobeo, a
 jacobinismo
 jacobino, na
@@ -131,8 +125,7 @@ jaibería
 jaibol
 jaima
 jaimitada
-jaimito1
-jaimito2
+jaimito
 jainismo
 jainista
 jaique
@@ -170,8 +163,7 @@ jalisciense
 jalma
 jalmería
 jalmero
-jalón1
-jalón2
+jalón
 jalona
 jalonamiento
 jalonar
@@ -181,8 +173,7 @@ jaloneo
 jaloque
 jama
 jamacuco
-Jamaica1
-jamaica2
+Jamaica
 jamaicano, na
 jamaiquino, na
 jamaquear
@@ -224,13 +215,11 @@ jansenismo
 jansenista
 januche
 jaño, ña
-Japón1
-japón2
+Japón
 japonense
 japonés, sa
 japuta
-jaque1
-jaque2
+jaque
 jaquear
 jaqueca
 jaquecoso, sa
@@ -240,8 +229,7 @@ jaquero
 jaqués, sa
 jaqueta
 jaquetilla
-jaquetón1
-jaquetón2
+jaquetón
 jaquetonería
 jáquima
 jaquimazo
@@ -296,8 +284,7 @@ jaripeo
 jarique
 járjara
 jarniojal
-jaro1
-jaro2, ra
+jaro, ra
 jarocho, cha
 jaropar
 jarope
@@ -309,8 +296,7 @@ jarquía
 jarra
 jarrar
 jarrazo
-jarrear1
-jarrear2
+jarrear
 jarreojar
 jarrero, ra
 jarrer, ra
@@ -391,8 +377,7 @@ jengibre
 jeniquén
 jenízaro, ra
 jeque
-jera1
-jera2
+jera
 jerapellina
 jerarca
 jerarquia
@@ -408,11 +393,9 @@ jeremías
 jeremiquear
 jerez
 jerezano, na
-jerga1
-jerga2
+jerga
 jergal
-jergón1
-jergón2
+jergón
 jerguilla
 jeribeque
 jericalla
@@ -438,8 +421,7 @@ jerónimo, ma
 jerosolimitano, na
 jerpa
 jerricote
-jersey1
-Jersey2
+jersey
 jertias
 jeruga
 Jerusalén
@@ -453,10 +435,8 @@ jesuitino, na
 jesuitismo
 Jesús
 jesusear
-jet 1
-jet2
-jeta1
-jeta2
+jet
+jeta
 jetar
 jetazo
 jetear
@@ -467,8 +447,7 @@ jetonear
 jetón, na
 jet set
 jetudo, da
-ji1
-ji2
+ji
 jíbaro, ra
 jibe
 jibia
@@ -502,8 +481,8 @@ jijallo
 jijas
 jijear
 jijeo
-jijon2
-jijona1
+jijon
+jijona
 jijonenco, ca
 jileco
 jilgero, ra
@@ -524,8 +503,7 @@ jindama
 jiné
 jinebro
 jinestada
-jineta1
-jineta2
+jineta
 jinetada
 jinete
 jineteada
@@ -547,8 +525,7 @@ jiote
 jiotoso, sa
 jiotudo, da
 jipa
-jipi1
-jipi2
+jipi
 jipiar
 jipido
 jipijapa
@@ -557,8 +534,7 @@ jipismo
 jiquilete
 jiquilite
 jiquinicuil
-jira1
-jira2
+jira
 jirafa
 jirahara
 jirapliega
@@ -580,8 +556,7 @@ jitomatal
 jitomate
 jitomatero, ra
 jiu-jitsu
-jo1
-jo2
+jo
 Job
 jobada
 jobar
@@ -618,8 +593,7 @@ joguer
 jojoba
 jojoto, ta
 jolgorio
-jolín1
-jolín2, na
+jolín, na
 jolines
 jolino, na
 jolito
@@ -655,8 +629,7 @@ jornal
 jornalar
 jornalear
 jornalero, ra
-joroba1
-joroba2
+joroba
 jorobado, da
 jorobadura
 jorobar
@@ -671,14 +644,11 @@ José
 joseador
 josear
 josefinismo
-josefino1, na
-josefino2, na
+josefino, na
 josefismo
 jostra
 jostrado, da
-jota1
-jota2
-jota3
+jota
 jote
 jotero, ra
 joto
@@ -723,17 +693,14 @@ jubete
 jubetería
 jubilación
 jubilado, da
-jubilar1
-jubilar2
-jubilar3
+jubilar
 jubileo
 jubillo
 jubilo
 júbilo
 jubilosamente
 jubiloso, sa
-jubo1
-jubo2
+jubo
 jubón
 jubonero
 júcaro
@@ -822,8 +789,7 @@ julia
 juliana
 juliano, na
 juliaqueño, ña
-julio1
-julio2
+julio
 jullipa
 julo
 juma
@@ -850,8 +816,7 @@ junciana
 junciera
 juncino, na
 juncir
-junco1
-junco2
+junco
 juncoso, sa
 junene
 jungla
@@ -884,8 +849,7 @@ junza
 juñir
 jupa
 jupear
-júpiter1
-júpiter2
+júpiter
 jupiterino, na
 jupón, na
 juquear

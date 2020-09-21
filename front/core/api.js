@@ -5,8 +5,6 @@ const defaultParams = {
   query: {}
 };
 
-const apiBase = 'http://0.0.0.0:3000/';
-
 function get(url, params = defaultParams) {
   let finalRequest = request
     .get(url)

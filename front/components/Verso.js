@@ -1,11 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { connect } from 'react-redux';
-import { Container, Row, Col, Button } from 'reactstrap';
 import styled from 'styled-components';
-
-const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-
+import { dateFormatOptions } from '../core/constants';
 
 const StyledVerso = styled.div`
   margin: 0.5rem 1rem;
@@ -14,6 +10,7 @@ const StyledVerso = styled.div`
   white-space: nowrap;
   letter-spacing: .12em;
   animation: typing 2.5s steps(40, end);
+  cursor: pointer;
 
   span {
     display: none;
@@ -52,6 +49,22 @@ const StyledVerso = styled.div`
     from { width: 0 }
     to { width: 100% }
   }
+
+  @media only screen and (max-width: 550px) {
+    white-space: normal;
+    font-size: 1.3rem;
+    letter-spacing: -0.1rem;
+    ::after {
+      display: ${props => (props.isContrib ? 'block' : 'none')};
+      content: "^ el verso de tu IP";
+    }
+
+    &:hover {
+      span {
+        display: none;
+      }
+    }
+  }
 `;
 
 const Verso = ({
@@ -63,7 +76,7 @@ const Verso = ({
     <span>
       <label>{item.ip}</label>
       <small>
-        {new Date(item.created_at).toLocaleDateString('es-ES', options)}
+        {new Date(item.created_at).toLocaleDateString('es-ES', dateFormatOptions)}
       </small>
     </span>
   </StyledVerso>

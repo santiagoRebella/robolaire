@@ -13,6 +13,8 @@ function verso() {
     ${mechados()} ${second} ${mechados()} ${rimedWord(first, [])}
     `, `
     ${word()} ${mechados()} ${word()} ${mechados()} ${word()} ${mechados()} ${word()}
+    `, `
+    ${first} ${mechados()} ${word()} ${mechados()} ${word()} ${mechados()} ${rimedWord(first, [])}
   `];
 
   return formas[ran(formas.length)];

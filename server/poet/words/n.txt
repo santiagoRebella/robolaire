@@ -1,4 +1,3 @@
-n
 na
 naba
 nabab
@@ -17,8 +16,7 @@ nabo
 naborí
 naboría
 nácar
-nácara1
-nácara2
+nácara
 nacarado, da
 nacáreo, a
 nacarigüe
@@ -54,8 +52,7 @@ nacionalsindicalismo
 nacionalsindicalista
 nacionalsocialismo
 nacionalsocialista
-naco1
-naco2, ca
+naco, ca
 nacre
 nacrita
 nada
@@ -105,8 +102,7 @@ naipear
 naipero, ra
 naipesco, ca
 naire
-naja1
-naja2
+naja
 najerano, na
 najerense
 najerino, na
@@ -124,8 +120,7 @@ nalguear
 nambira
 namibio, bia
 namorar
-nana1
-nana2
+nana
 nanacate
 nanay
 nance
@@ -138,7 +133,6 @@ Nancy
 nandaimeño, ña
 nanear
 nanita
-nano-
 nanoestructura
 nanómetro
 nanotecnología
@@ -149,8 +143,7 @@ nansú
 nantar
 nao
 naonato, ta
-napa1
-napa2
+napa
 napalm
 napar
 napea
@@ -175,10 +168,8 @@ narbonés, sa
 narceína
 narcisismo
 narcisista
-narciso1
-narciso2
+narciso
 narco
-narco-
 narcoavioneta
 narcodinero
 narcodólar
@@ -218,8 +209,7 @@ nariz
 narizón, na
 narizotas
 narizudo, da
-narra1
-narra2
+narra
 narrable
 narración
 narrador, ra
@@ -293,7 +283,6 @@ nausear
 nauseativo, va
 nauseoso, sa
 nauta
--nauta
 náutico, ca
 nautilo
 nauyaca
@@ -305,8 +294,7 @@ navajazo
 navajear
 navajeo
 navajero, ra
-navajo1
-navajo2, ja
+navajo, ja
 navajón
 navajonazo
 naval
@@ -344,7 +332,6 @@ nazi
 nazismo
 názora
 názula
--ncia
 ndowé
 nea
 neandertal
@@ -381,7 +368,6 @@ necesitar
 neciamente
 necio, cia
 nécora
-necro-
 necrodactilar
 necrofagia
 necrófago, ga
@@ -405,8 +391,7 @@ necrótico, ca
 néctar
 nectáreo, a
 nectarina
-nectarino1, na
-nectarino2, na
+nectarino, na
 nectario
 necton
 nectónico, ca
@@ -424,7 +409,6 @@ néfora
 nefrectomía
 nefrítico, ca
 nefritis
-nefro-
 nefrología
 nefrológico, ca
 nefrólogo, ga
@@ -527,9 +511,7 @@ nene, na
 neneque
 nenia
 nenúfar
-neo-
-neo1
-neo2, a
+neo, a
 neocatolicismo
 neocatólico, ca
 Neoclasicismo
@@ -645,10 +627,8 @@ netáceo, a
 netamente
 netezuelo, la
 neto, ta
-neuma1
-neuma2
+neuma
 neumático, ca
-neumo-
 neumococo
 neumoconiosis
 neumogástrico
@@ -670,7 +650,6 @@ neurasténico, ca
 neurisma
 neurita
 neuritis
-neuro-
 neuroanatomía
 neuroanatómico, ca
 neuroanatomista
@@ -746,8 +725,7 @@ nevus
 newton
 newtoniano, na
 nexo
-ni1
-ni2
+ni
 nía
 nial
 niara
@@ -764,7 +742,7 @@ niceno, na
 niche
 nicho
 nicle
-niclear1
+niclear
 nicociana
 nicol
 nicomediense
@@ -840,8 +818,7 @@ ninja
 ninot
 niña
 niñada
-niñato1
-niñato2, ta
+niñato, ta
 niñear
 niñería
 niñero, ra
@@ -891,7 +868,6 @@ nitrería
 nítrico, ca
 nitrito
 nitro
-nitro-
 nitrobenceno
 nitrocelulosa
 nitrogelatina
@@ -960,8 +936,7 @@ nocturno, na
 nodación
 nodal
 nodátil
-nodo1
-nodo2
+nodo
 nodriza
 nodular
 nódulo
@@ -1003,7 +978,6 @@ nomenclatura
 nomenclatural
 nomenklatura
 nomeolvides
--nomía
 nómico, ca
 nómina
 nominación
@@ -1029,8 +1003,7 @@ nomon
 nomónico, ca
 nomotético, ca
 nomparell
-non1
-non2
+non
 nona
 nonada
 nonagenario, ria
@@ -1057,7 +1030,6 @@ nopial
 noque
 noquear
 noquero
-nor-
 norabuena
 noradranalina
 nora en tal
@@ -1065,7 +1037,6 @@ noramala
 nora tal
 noray
 norcoreano, na
-nord-
 nordestal
 nordeste
 nordestear
@@ -1157,9 +1128,7 @@ noticioso, sa
 notificación
 notificar
 notificativo, va
-noto1
-noto2, ta
-noto3, ta
+noto, ta
 notocordio
 notomía
 notoriamente
@@ -1224,7 +1193,6 @@ novohispano, na
 novomexicano, na
 noxa
 noyó
--nte
 nubado, da
 nubarrado, da
 nubarrón
@@ -1246,7 +1214,7 @@ nuca
 nuche
 nucir
 nucleamiento
-nuclear2
+nuclear
 nucleario, ria
 nuclearización
 nuclearizar
@@ -1261,9 +1229,7 @@ nuco
 nudillo
 nudismo
 nudista
-nudo1
-nudo2, da
-nudo2, da
+nudo, da
 nudosidad
 nudoso, sa
 nudrimiento

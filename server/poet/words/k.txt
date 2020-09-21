@@ -1,10 +1,8 @@
-k
 ka
 kabuki
 kafkiano, na
 káiser
-kaki1
-kaki2
+kaki
 kalmuko, ka
 kamikace
 kan
@@ -48,11 +46,9 @@ kif
 kiko
 kikuyo
 kila
-kili-
 kiliárea
 kílim
 kilo
-kilo-
 kilobyte
 kilocaloría
 kilociclo

@@ -40,8 +40,10 @@ const Header = () => (
   <StyledHeader>
     <header>
       <h1>Robolaire</h1>
-      <NavLink exact to="/">Poema de IPs</NavLink>
-      <NavLink exact to="/componer">Componer</NavLink>
+      <nav>
+        <NavLink exact to="/">Poema de IPs</NavLink>
+        <NavLink exact to="/componer">Componer</NavLink>
+      </nav>
     </header>
   </StyledHeader>
 );

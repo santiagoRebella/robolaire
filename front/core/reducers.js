@@ -20,8 +20,6 @@ export default (state = initialState(), action) => {
       };
 
     case actionTypes.FETCH_POEMS_SUCCEED: {
-      console.log(action.payload);
-      //const rows = action.payload.rows.map(item => ({ ...item, data: JSON.parse(item.data) }));
       return {
         ...state,
         fetching: false,
@@ -39,7 +37,6 @@ export default (state = initialState(), action) => {
     }
 
     case actionTypes.FETCH_ESTROFA_SUCCEED: {
-      console.log(action.payload)
       return {
         ...state,
         phrases: [...state.phrases, action.payload],
@@ -48,7 +45,6 @@ export default (state = initialState(), action) => {
     }
 
     case actionTypes.FETCH_POEMA_SUCCEED: {
-      console.log(action.payload)
       return {
         ...state,
         phrases: [...state.phrases, action.payload],

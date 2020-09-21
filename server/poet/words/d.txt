@@ -1,10 +1,8 @@
-d
 dable
 daca
 da capo
 dacha
-dacio1
-dacio2, cia
+dacio, cia
 dación
 dacriocistitis
 dacriología
@@ -17,7 +15,6 @@ dactiliforme
 dactiliología
 dactilión
 dáctilo
-dactilo-, -dáctilo
 dactilografiar
 dactilógrafo, fa
 dactilograma
@@ -25,7 +22,6 @@ dactilología
 dactilológico, ca
 dactiloscopia
 dactiloscopista
--dad
 dadá
 dadaísmo
 dadaísta
@@ -35,11 +31,9 @@ dadivado, da
 dadivar
 dadivosidad
 dadivoso, sa
-dado1
-dado2
+dado
 dador
-daga1
-daga2
+daga
 dagame
 daguerrotipar
 daguerrotipia
@@ -47,8 +41,7 @@ daguerrotipo
 daguerrotipo
 daguestaní
 daguestano, na
-daguilla1
-daguilla2
+daguilla
 dahir
 daifa
 daila
@@ -73,10 +66,7 @@ dalton
 daltoniano, na
 daltónico, ca
 daltonismo
-dama1
-dama2
-dama3
-dama4
+dama
 damaceno, na
 damacuao
 damaería
@@ -159,8 +149,7 @@ dasocrático, da
 dasonomía
 dasonómico, ca
 dasquicerente
-data1
-data2
+data
 datación
 datáfono
 datar
@@ -174,8 +163,7 @@ datilera
 datismo
 dativa
 dativo
-dato1
-dato2
+dato
 datura
 daturina
 dauco
@@ -187,9 +175,7 @@ davideño, ña
 davídico, ca
 dazibao
 DDT
-de-
-de1
-de2
+de
 dea
 deahuciar
 deal
@@ -214,8 +200,7 @@ debe
 debelación
 debelador, ra
 debelar
-deber1
-deber2
+deber
 debida
 debidamente
 debido
@@ -236,7 +221,6 @@ debruzar
 debut
 debutante
 debutar
-deca-
 década
 decadencia
 decadente
@@ -264,8 +248,7 @@ decania
 decano, na
 decantación
 decantador, ra
-decantar1
-decantar2
+decantar
 decapado
 decapante
 decapar
@@ -316,7 +299,6 @@ decesado, da
 decesión
 deceso
 dechado
-deci-
 deciárea
 decibel
 decibélico, ca
@@ -358,8 +340,7 @@ decimosexto, ta
 decimotercero, ra
 decimotercio, cia
 deciocheno, na
-decir1
-decir2
+decir
 decisión
 decisionismo
 decisivo, va
@@ -405,18 +386,14 @@ deconstruccionismo
 deconstruccionista
 deconstructivismo
 deconstruir
-decoración1
-decoración2
-decorado1
-decorado2
+decoración
+decorado
 decorador, ra
-decorar1
-decorar2
+decorar
 decorativismo
 decorativista
 decorativo, va
-decoro1
-decoro2, ra
+decoro, ra
 decoroso, sa
 decorrerse
 decorrimiento
@@ -688,8 +665,7 @@ deleznadizo, za
 deleznamiento
 deleznarse
 délfico, ca
-delfín1
-delfín2
+delfín
 delfina
 delfinario
 delfinato
@@ -700,16 +676,13 @@ delgadeza
 delgado, da
 delgaducho, cha
 delgazar
-deliberación1
-deliberación2
+deliberación
 deliberadamente
 deliberado, da
 deliberante
-deliberar1
-deliberar2
+deliberar
 deliberativo, va
-delibrar1
-delibrar2
+delibrar
 delicadamente
 delicadez
 delicadeza
@@ -792,8 +765,7 @@ demediar
 demencia
 demenciado, da
 demencial
-dementar1
-dementar2
+dementar
 demente
 demergido, da
 demeritar
@@ -806,7 +778,6 @@ demisión
 demiúrgico, ca
 demiurgo
 demo
-demo-
 democracia
 demócrata
 democratacristiano, na
@@ -889,8 +860,7 @@ denegrido, da
 denegrir
 dengero, ra
 dengoso, sa
-dengue1
-dengue2
+dengue
 denguear
 denigración
 denigrador, ra
@@ -923,8 +893,7 @@ densitómetro
 denso, sa
 dentado, da
 dentadura
-dental1
-dental2
+dental
 dentar
 dentario, ria
 dente
@@ -938,7 +907,6 @@ dentellón
 dentera
 denteroso, sa
 dentezuelo
-denti-
 denticina
 dentición 
 denticonejuno, na
@@ -952,7 +920,6 @@ dentirrostro, tra
 dentista
 dentistería
 dentivano, na
-dento-
 dentoalveolar
 dentón, na
 dentrambos, bas
@@ -990,8 +957,7 @@ depauperación
 depauperar
 dependencia
 dependente
-depender1
-depender2
+depender
 dependiente, ta
 depilación 
 depilado
@@ -1015,8 +981,7 @@ deportividad
 deportivo, va
 deportoso, sa
 deposar
-deposición1
-deposición2
+deposición
 depositador, ra
 depositante
 depositar
@@ -1062,7 +1027,6 @@ deputar
 deque
 dequeísmo
 dequeísta
--dera
 derbi
 derecera
 derecha
@@ -1089,22 +1053,17 @@ derivación
 derivado, da
 derivativo, va
 derivo
-derm-
 dermalgia
-dermat-
 dermatitis
-dermato-
 dermatoesqueleto
 dermatología
 dermatológico, ca
 dermatólogo, ga
 dermatosis
 dermesto
--dermia
 dérmico
 dermis
 dermitis
-dermo-, -dermo
 dermofarmacéutico, ca
 dermofarmacia
 dermoprotección
@@ -1114,7 +1073,6 @@ derogación
 derogador, ra
 derogar
 derogatorio, ria
--dero, ra
 derrabadura
 derrabar
 derrabe
@@ -1169,8 +1127,7 @@ derrocón, na
 derromper
 derronchar
 derrostrarse
-derrota1
-derrota2
+derrota
 derrotado, da
 derrotar
 derrote
@@ -1187,7 +1144,6 @@ derrumbe
 derrumbo
 derviche
 des
-des-
 desa
 desabarrancar
 desabastecer
@@ -1258,8 +1214,7 @@ desacorralar
 desacostumbradamente
 desacostumbrado, da
 desacostumbrar
-desacotar1
-desacotar2
+desacotar
 desacoto
 desacralización
 desacralizador, ra
@@ -1288,8 +1243,7 @@ desadvertir
 desafear
 desafección
 desafectación
-desafectado1, da
-desafectado2, da
+desafectado, da
 desafectar
 desafecto, ta
 desafeitar
@@ -1353,8 +1307,7 @@ desahucio
 desahumado, da
 desahumar
 desainadura
-desainar1
-desainar2
+desainar
 desairadamente
 desairado, da
 desairar
@@ -1372,12 +1325,11 @@ desalación
 desaladamente
 desalado, da
 desalagar
-desalar1
-desalar2
+desalar
 desalarse
 desalbardar
 desalentadamente
-desalentador1
+desalentador
 desalentar
 desalfombrar
 desalforjar
@@ -1549,8 +1501,7 @@ desarreglado, da
 desarreglar
 desarreglo
 desarrendado, da
-desarrendar1
-desarrendar2
+desarrendar
 desarrevolver
 desarrimar
 desarrimo
@@ -1590,8 +1541,7 @@ desastradamente
 desastrado, da
 desastre
 desastroso, sa
-desatacar1
-desatacar2
+desatacar
 desatadamante
 desatado,da
 desatador, ra
@@ -1703,8 +1653,7 @@ desbardar
 desbarrada
 desbarrancadero
 desbarrancar
-desbarrar1
-desbarrar2
+desbarrar
 desbarre
 desbarretar
 desbarrigado, da
@@ -1938,8 +1887,7 @@ descentralizar
 descentrar
 desceñidura
 desceñir
-descepar1
-descepar2
+descepar
 descerar
 descercado, da
 descercador
@@ -2000,8 +1948,7 @@ descodar
 descodificación
 descodificador, ra
 descodificar
-descoger1
-descoger2
+descoger
 descogollar
 descogotado, da
 descogotar
@@ -2157,8 +2104,7 @@ descorchado, da
 descorchador, ra
 descorchar
 descorche
-descordar1
-descordar2
+descordar
 descorderar
 descordojo
 descoritar
@@ -2186,8 +2132,7 @@ descostrar
 descostreñimiento
 descostumbre
 descotado, da
-descotar1
-descotar2
+descotar
 descote
 descoyuntamiento
 descoyuntar
@@ -2234,8 +2179,7 @@ descuajaringar
 descuaje
 descuajeringado, da
 descuajo
-descuartelar1
-descuartelar2
+descuartelar
 descuartizador, ra
 descuartizamiento
 descuartizar
@@ -2562,8 +2506,7 @@ desenrazonado, da
 desenredar
 desenredo
 desenrejar
-desenrizar1
-desenrizar2
+desenrizar
 desenrollar
 desenronar
 desenroscar
@@ -2714,8 +2657,7 @@ desfijar
 desfilachar
 desfiladero
 desfiladiz
-desfilar1
-desfilar2
+desfilar
 desfile
 desfinanciado, da
 desfiuza
@@ -2772,8 +2714,7 @@ desgarbado, da
 desgarbilado, da
 desgarbo
 desgargantarse
-desgargolar1
-desgargolar2
+desgargolar
 desgaritar
 desgarradamente
 desgarrado, da
@@ -3034,16 +2975,14 @@ deslamar
 deslánguido, da
 deslardarse
 deslastrar
-deslatar1
-deslatar2
+deslatar
 deslate
 deslateralización
 deslateralizar
 deslavado, da
 deslavadura
 deslavamiento
-deslavar1
-deslavar2
+deslavar
 deslavazado, da
 deslavazar
 deslave
@@ -3064,8 +3003,7 @@ deslendrar
 deslenguado, da
 deslenguamiento
 deslenguar
-desliar1
-desliar2
+desliar
 desligadura
 desligar
 deslinajar
@@ -3108,8 +3046,7 @@ desmadejar
 desmadrado, da
 desmadrar
 desmadre
-desmajolar1
-desmajolar2
+desmajolar
 desmalazado, da
 desmalazado, da
 desmalezadora
@@ -3121,12 +3058,10 @@ desmamar
 desmambichar
 desmamonar
 desmamparar
-desmán1
-desmán2
+desmán
 desmanar
 desmanchador, ra
-desmanchar1
-desmanchar2
+desmanchar
 desmanche
 desmancho
 desmandado, da
@@ -3239,8 +3174,7 @@ desmontable
 desmontado
 desmontadura
 desmontaje
-desmontar1
-desmontar2
+desmontar
 desmonte
 desmoñar
 desmoralización
@@ -3384,15 +3318,13 @@ despabilador, ra
 despabiladura
 despabilar
 despabilo
-despachada1
-despachada2
+despachada
 despachaderas
 despachado, da
 despachador, ra
 despachamiento
 despachante
 despachar
-despachar1
 despachero, ra
 despacho
 despachurrado, da
@@ -3481,11 +3413,9 @@ despechadamente
 despechado, da
 despechador
 despechamiento
-despechar2
-despechar3
+despechar
 despecheratado, da
-despecho1
-despecho2
+despecho
 despechoso, sa
 despechugado, da
 despechugadura
@@ -3519,8 +3449,7 @@ despellejada
 despellejadura
 despellejar
 despelotado, da
-despelotar1
-despelotar2
+despelotar
 despelotarse
 despelote
 despelucar
@@ -3554,8 +3483,7 @@ despepar
 despepitado
 despepitador
 despepitadora
-despepitar1
-despepitar2
+despepitar
 desperación
 desperado, da
 desperar
@@ -3585,12 +3513,10 @@ despersonalización
 despersonalizar
 despertador, ra
 despertamiento
-despertar1
-despertar2
+despertar
 desperteza
 despesa
-despesar1
-despesar2
+despesar
 despesca
 despescar
 despesco
@@ -3599,8 +3525,7 @@ despezar
 despezo
 despezonar
 despiadado, da
-despicar1
-despicar2
+despicar
 despichar
 despidida
 despidiente
@@ -3642,8 +3567,7 @@ despiste
 despistolización
 despitorrado, da
 despizcar
-desplacer1
-desplacer2
+desplacer
 desplaciente
 desplanar
 desplanchador, ra
@@ -3817,8 +3741,7 @@ desreputación
 desrielar
 desriñonar
 desriscar
-desrizar1
-desrizar2
+desrizar
 desroblar
 desroñar
 desrostrar
@@ -3903,10 +3826,8 @@ destilatorio, ria
 destilería
 destín
 destinación
-destinado1, da
-destinado2, da
-destinar1
-destinar2
+destinado, da
+destinar
 destinatario, ria
 destino
 destiñar
@@ -3941,8 +3862,7 @@ destramar
 destrejar
 destrenzar
 destrero, ra
-destreza1
-destreza2
+destreza
 destributar
 destrincar
 destripacuentos
@@ -4046,10 +3966,8 @@ desvedar
 desvelación
 desvelada
 desvelador, ra
-desvelamiento1
-desvelamiento2
-desvelar1
-desvelar2
+desvelamiento
+desvelar
 desvelizar
 desvelo
 desvenar
@@ -4080,8 +3998,7 @@ desvinculación
 desvinculador, ra
 desvincular
 desvío
-desvirar1
-desvirar2
+desvirar
 desvirgar
 desvirtuación
 desvirtuador, ra
@@ -4207,8 +4124,7 @@ develador, ra
 develar
 devengar
 devengo
-devenir1
-devenir2
+devenir
 deverbal
 deverbativo, va
 de verbo ad verbum
@@ -4255,9 +4171,7 @@ dezmería
 dezmero, ra
 deztrógiro, ra
 dí
-di-1
-di-2
-dia-
+di
 día
 diabasa
 diabático, ca
@@ -4326,8 +4240,6 @@ diagramado
 diagramar
 diaguita
 dial
-dial1
-dial2
 diálaga
 dialectal
 dialectalismo
@@ -4430,8 +4342,7 @@ diccionario
 diccionarista
 dicente
 díceres
-dicha1
-dicha2
+dicha
 dicharachero, ra
 dicharacho
 dichero, ra
@@ -4517,8 +4428,7 @@ diesis
 diestra
 diestramente
 diestro, tra
-dieta1
-dieta2
+dieta
 dietar
 dietario
 dietético, ca
@@ -4674,8 +4584,7 @@ dilucidario
 dilución
 dilúculo
 diluente
-diluir1
-diluir2
+diluir
 dilusivo, va
 diluvial
 diluviano, na
@@ -4710,8 +4619,7 @@ dimitente
 dimitir
 dimorfismo
 dimorfo, fa
-din1
-DIN2
+din
 dina
 dinacho
 dinamarqués, sa
@@ -4842,8 +4750,6 @@ dirimente
 dirimible
 dirimir
 dirruidar
-dis-1
-dis-2
 disacárido
 disantero, ra
 disanto
@@ -4872,16 +4778,14 @@ disciplinable
 disciplinado, da
 disciplinal
 disciplinante
-disciplinar1
-disciplinar2
+disciplinar
 disciplinario, ria
 disciplinazo
 discipulado
 discipular
 discípulo, la
 disc-jockey
-disco1
-disco2
+disco
 discóbolo
 discografía
 discográfico, ca
@@ -4949,8 +4853,7 @@ disecable
 disecación
 disecado
 disecador, ra
-disecar1
-disecar2
+disecar
 disección
 diseccionar
 disectivo, va
@@ -5151,8 +5054,7 @@ distensible
 distensión
 distermia
 disterminar
-dístico1
-dístico2, ca
+dístico, ca
 distilación
 distilar
 distilatorio
@@ -5165,8 +5067,7 @@ distinguidor, ra
 distinguir
 distintividad
 distintivo, va
-distinto1, ta
-distinto2
+distinto, ta
 distocia
 distócico, ca
 distomo
@@ -5293,8 +5194,7 @@ diyambo
 dizque
 DNA
 DNI
-do1
-do2
+do
 dóberman
 dobla
 doblada
@@ -5375,7 +5275,6 @@ documentalista
 documentar
 documentario, ria
 documento
-dodeca-
 dodecaedro
 dodecafonía
 dodecafónico, ca
@@ -5397,8 +5296,7 @@ dogmatista
 dogmatizador, ra
 dogmatizante
 dogmatizar
-dogo1, ga
-dogo2
+dogo, ga
 dogón, na
 dogre
 dola
@@ -5474,8 +5372,7 @@ dominativo, va
 dominatriz
 dómine
 domingada
-domingo1
-Domingo2
+domingo
 dominguejo
 dominguero, ra
 dominguillo
@@ -5492,8 +5389,7 @@ dominó
 domo
 domótico, ca
 dompedro
-don1
-don2, doña
+don, doña
 donación
 donadío
 donado, da
@@ -5535,8 +5431,7 @@ donostiarra
 donosura
 donquijotesco, ca
 dontancredísmo
-doña1
-doña2
+doña
 doñaguil
 doñeador
 doñear
@@ -5582,7 +5477,6 @@ dorna
 dornajo
 dornilero
 dornillo
--dor, ra
 dorsal
 dorso
 dorsoventral
@@ -5727,8 +5621,7 @@ ducado
 ducal
 ducas
 ducentésimo, ma
-ducha1
-ducha2
+ducha
 duchar
 duchazo
 duchero
@@ -5752,8 +5645,7 @@ duela
 duelaje
 duelero
 duelista
-duelo1
-duelo2
+duelo
 duenario
 duende
 duendo, da
@@ -5762,8 +5654,7 @@ dueñesco, ca
 dueño, ña
 duermevela
 duerna
-duerno1
-duerno2
+duerno
 dueto
 dúho
 dujo
@@ -5787,8 +5678,7 @@ dulero, ra
 dulía
 dulimán
 dulleta
-dulzaina1
-dulzaina2
+dulzaina
 dulzainero, ra
 dulzaino, na
 dulzal
@@ -5836,7 +5726,6 @@ duplo, pla
 duquela
 duque, quesa
 dura
--dura
 durabilidad
 durable
 duración
