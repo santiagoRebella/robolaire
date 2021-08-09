@@ -13,9 +13,10 @@ router.get('/', (req, res) => (async () => {
   const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
   const pool = new Pool({
     connectionString: process.env.DATABASE_URL,
-    ssl: {
-      rejectUnauthorized: false
-    }
+    // ssl: {
+    //   rejectUnauthorized: false
+    // }
+    ssl: false
   });
   const result = await pool.query(queries.GET_POEMA)
   const hasContributed = result.rows.find(x => x.ip === ip);
